@@ -1,682 +1,682 @@
-Company,Valuation,Date,Country,City,Industry
-Red Ventures,1.0,2015-01-07,United States,Fort Mill,Other
-Tanium,9.0,2015-03-31,United States,Kirkland,Cybersecurity
-Planet Labs,2.2,2015-04-13,United States,San Francisco,Other
-Illumio,2.75,2015-04-14,United States,Sunnyvale,Cybersecurity
-Infinidat,1.6,2015-04-29,United States,Waltham,Hardware
-Zenefits,4.5,2015-05-06,United States,San Francisco,Fintech
-LifeMiles,1.15,2015-07-13,Colombia,Bogota,Other
-Flipboard,1.32,2015-07-22,United States,Palo Alto,Internet software & services
-Vox Media,1.0,2015-08-12,United States,Washington,Internet software & services
-Carbon,2.4,2015-08-20,United States,Redwood City,Hardware
-ZocDoc,1.8,2015-08-20,United States,New York,Health
-BlaBlaCar,2.0,2015-09-16,France,Paris,Auto & transportation
-Thumbtack,3.2,2015-09-29,United States,San Francisco,E-commerce & direct-to-consumer
-AppDirect,1.1,2015-10-07,United States,San Francisco,E-commerce & direct-to-consumer
-Uptake,2.3,2015-10-27,United States,Chicago,Artificial intelligence
-Gusto,10.0,2015-12-18,United States,San Francisco,Fintech
-MindMaze,1.0,2016-01-28,Switzerland,Lausanne,Health
-Age of Learning,3.0,2016-05-03,United States,Glendale,Edtech
-Gett,1.5,2016-05-24,Israel,Tel Aviv,Auto & transportation
-SMS Assist,1.0,2016-06-07,United States,Chicago,Internet software & services
-OVH,1.1,2016-08-15,France,Roubaix,Other
-Quanergy Systems,2.0,2016-08-22,United States,Sunnyvale,Auto & transportation
-Promasidor Holdings,1.59,2016-11-08,South Africa,Bryanston,Consumer & retail
-Kendra Scott,1.0,2016-12-21,United States,Austin,Consumer & retail
-Traveloka,3.0,2017-01-01,Indonesia,Jakarta,Travel
-Quora,2.0,2017-04-21,United States,Mountain View,Internet software & services
-Rubrik,4.0,2017-04-28,United States,Palo Alto,Data management & analytics
-Modernizing Medicine,1.0,2017-05-10,United States,Boca Raton,Health
-Symphony,1.4,2017-05-16,United States,New York,Fintech
-Otto Bock HealthCare,3.52,2017-06-24,Germany,Duderstadt,Health
-BYJU's,21.0,2017-07-25,India,Bengaluru,Edtech
-reddit,10.0,2017-07-31,United States,San Francisco,Internet software & services
-Cell C,1.0,2017-08-07,South Africa,Midrand,Mobile & telecommunications
-Vista Global,2.5,2017-08-23,United Arab Emirates,Dubai,Other
-Rubicon Global,1.07,2017-08-25,United States,Atlanta,Other
-Indigo Ag,3.5,2017-09-26,United States,Boston,Artificial intelligence
-Revolution Precrafted,1.0,2017-10-23,Philippines,Manila,Other
-InVision,1.9,2017-11-01,United States,New York,Internet software & services
-Niantic,9.0,2017-11-24,United States,San Francisco,Mobile & telecommunications
-Eat Just,1.1,2017-11-30,United States,San Francisco,Consumer & retail
-HeartFlow,1.3,2017-12-04,United States,Redwood City,Health
-JUUL Labs,12.0,2017-12-20,United States,San Francisco,Consumer & retail
-Canva,40.0,2018-01-08,Australia,Surry Hills,Internet software & services
-Cabify,1.4,2018-01-22,Spain,Madrid,Auto & transportation
-Upgrade,3.33,2018-02-12,United States,San Francisco,Fintech
-Harry's Razor Company,1.7,2018-02-16,United States,New York,Consumer & retail
-OrCam Technologies,1.03,2018-02-20,Israel,Jerusalem,Artificial intelligence
-NuCom Group,2.2,2018-02-22,Germany,Unterfoehring,Other
-Nubank,30.0,2018-03-01,Brazil,Sao Paulo,Fintech
-Tempus,8.1,2018-03-21,United States,Chicago,Health
-Samsara Networks,6.3,2018-03-22,United States,San Francisco,Hardware
-Intercom,1.28,2018-03-27,United States,San Francisco,Internet software & services
-Discord,7.0,2018-04-20,United States,San Francisco,Internet software & services
-Flexport,3.2,2018-04-30,United States,San Francisco,"Supply chain, logistics, & delivery"
-SoundHound,2.1,2018-05-03,United States,Santa Clara,Artificial intelligence
-ThoughtSpot,4.2,2018-05-08,United States,Sunnyvale,Internet software & services
-Circle,3.0,2018-05-15,United States,Boston,Fintech
-Preferred Networks,2.0,2018-05-17,Japan,Tokyo,Artificial intelligence
-HMD Global,1.0,2018-05-21,Finland,Espoo,Mobile & telecommunications
-Tradeshift,2.7,2018-05-30,United States,San Francisco,Fintech
-Dataminr,4.1,2018-06-04,United States,New York,Artificial intelligence
-OutSystems,9.5,2018-06-05,United States,Boston,Internet software & services
-Cohesity,3.7,2018-06-11,United States,San Jose,Data management & analytics
-Swiggy,5.5,2018-06-21,India,Bengaluru,"Supply chain, logistics, & delivery"
-Celonis,11.0,2018-06-26,Germany,Munich,Data management & analytics
-Automation Anywhere,6.8,2018-07-02,United States,San Jose,Artificial intelligence
-Starry,1.29,2018-07-03,United States,Boston,Mobile & telecommunications
-MediaMath,1.0,2018-07-10,United States,New York,Internet software & services
-Pony.ai,5.3,2018-07-11,United States,Fremont,Artificial intelligence
-Movile,1.0,2018-07-12,Brazil,Sao Paulo,Mobile & telecommunications
-Pat McGrath Labs,1.0,2018-07-16,United States,New York,Consumer & retail
-Formlabs,2.0,2018-08-01,United States,Somerville,Hardware
-Deezer,1.4,2018-08-02,France,Paris,Internet software & services
-Biosplice Therapeutics,12.0,2018-08-06,United States,San Diego,Health
-Rappi,5.25,2018-08-31,Colombia,Bogota,"Supply chain, logistics, & delivery"
-Udaan,3.1,2018-09-04,India,Bengaluru,"Supply chain, logistics, & delivery"
-Branch,1.0,2018-09-10,United States,Redwood City,Mobile & telecommunications
-Convoy,2.75,2018-09-21,United States,Seattle,"Supply chain, logistics, & delivery"
-OYO Rooms,9.6,2018-09-25,India,Gurugram,Travel
-Talkdesk,10.0,2018-10-03,United States,San Francisco,Internet software & services
-Brex,12.3,2018-10-05,United States,San Francisco,Fintech
-Tresata,1.0,2018-10-10,United States,Charlotte,Fintech
-Allbirds,1.7,2018-10-11,United States,San Francisco,E-commerce & direct-to-consumer
-Devoted Health,12.6,2018-10-16,United States,Waltham,Health
-PAX,1.7,2018-10-22,United States,San Francisco,Consumer & retail
-Omio,1.0,2018-10-23,Germany,Berlin,Travel
-Epic Games,28.7,2018-10-26,United States,Cary,Other
-HashiCorp,5.1,2018-11-01,United States,San Francisco,Internet software & services
-Zume,2.25,2018-11-01,United States,Mountain View,Consumer & retail
-BitFury,1.0,2018-11-06,Netherlands,Amsterdam,Hardware
-TripActions,7.25,2018-11-08,United States,Palo Alto,Travel
-iFood,1.0,2018-11-13,Brazil,Osasco,"Supply chain, logistics, & delivery"
-Netskope,7.5,2018-11-13,United States,Santa Clara,Cybersecurity
-ServiceTitan,9.5,2018-11-14,United States,Glendale,Internet software & services
-Cerebras Systems,4.0,2018-11-14,United States,Los Altos,Hardware
-Airtable,5.77,2018-11-15,United States,San Francisco,Internet software & services
-REEF Technology,1.0,2018-12-10,United States,Miami,"Supply chain, logistics, & delivery"
-Plaid Technologies,13.4,2018-12-11,United States,San Francisco,Fintech
-Seismic,3.0,2018-12-18,United States,San Diego,Internet software & services
-Cambridge Mobile Telematics,1.5,2018-12-19,United States,Cambridge,Mobile & telecommunications
-Fair,1.2,2018-12-20,United States,Santa Monica,Auto & transportation
-N26,9.23,2019-01-10,Germany,Berlin,Fintech
-Globality,1.0,2019-01-22,United States,Menlo Park,Artificial intelligence
-Collibra,5.25,2019-01-29,Belgium,Brussels,Data management & analytics
-Databricks,38.0,2019-02-05,United States,San Francisco,Data management & analytics
-Calm,2.0,2019-02-06,United States,San Francisco,Consumer & retail
-Nuro,8.6,2019-02-11,United States,Mountain View,Auto & transportation
-Ynsect,1.0,2019-02-21,France,Evry,Other
-Delhivery,3.0,2019-02-27,India,Gurgaon,"Supply chain, logistics, & delivery"
-wefox,1.65,2019-03-05,Germany,Berlin,Fintech
-Chime,25.0,2019-03-05,United States,San Francisco,Fintech
-Ovo,2.9,2019-03-14,Indonesia,Jakarta,Fintech
-Doctolib,1.14,2019-03-19,France,Paris,Health
-Glossier,1.2,2019-03-19,United States,New York,Consumer & retail
-Airwallex,5.5,2019-03-25,Australia,Melbourne,Fintech
-Kaseya,2.0,2019-03-27,United States,Miami,Cybersecurity
-ezCater,1.25,2019-04-02,United States,Boston,"Supply chain, logistics, & delivery"
-Liquid,1.0,2019-04-03,Japan,Tokyo,Fintech
-Dream11,8.0,2019-04-09,India,Mumbai,Internet software & services
-Outreach,4.4,2019-04-16,United States,Seattle,Internet software & services
-Sila Nanotechnologies,3.3,2019-04-16,United States,Alameda,Other
-KeepTruckin,2.3,2019-04-23,United States,San Francisco,"Supply chain, logistics, & delivery"
-PolicyBazaar,2.4,2019-05-06,India,Gurgaon,Fintech
-Carta,7.4,2019-05-06,United States,San Francisco,Fintech
-VTS,1.0,2019-05-07,United States,New York,Internet software & services
-Impossible Foods,4.0,2019-05-13,United States,Redwood City,Consumer & retail
-Away,1.4,2019-05-15,United States,New York,E-commerce & direct-to-consumer
-GetYourGuide,1.1,2019-05-16,Germany,Berlin,Travel
-Zipline,2.8,2019-05-20,United States,South San Francisco,"Supply chain, logistics, & delivery"
-Ivalua,1.1,2019-05-21,United States,Redwood City,Fintech
-Loggi,2.0,2019-06-05,Brazil,Sao Paulo,"Supply chain, logistics, & delivery"
-Northvolt,9.08,2019-06-12,Sweden,Stockholm,Other
-Gympass,2.2,2019-06-12,United States,New York,Internet software & services
-Collective Health,1.5,2019-06-17,United States,San Francisco,Fintech
-Meero,1.0,2019-06-18,France,Paris,Artificial intelligence
-Druva,2.0,2019-06-20,United States,Sunnyvale,Data management & analytics
-Kraken,2.92,2019-06-25,United States,San Francisco,Fintech
-StockX,3.8,2019-06-26,United States,Detroit,E-commerce & direct-to-consumer
-Ola Electric Mobility,3.0,2019-07-02,India,Bengaluru,Auto & transportation
-Rivigo,1.07,2019-07-11,India,Gurgaon,"Supply chain, logistics, & delivery"
-OneTrust,5.1,2019-07-11,United States,Atlanta,Internet software & services
-Sonder,1.3,2019-07-11,United States,San Francisco,Travel
-Argo AI,7.25,2019-07-12,United States,Pittsburgh,Artificial intelligence
-Icertis,2.8,2019-07-17,United States,Bellevue,Artificial intelligence
-FlixMobility,3.0,2019-07-18,Germany,Munich,Auto & transportation
-Radiology Partners,4.0,2019-07-19,United States,El Segundo,Health
-Trax,1.3,2019-07-22,Singapore,,Artificial intelligence
-OpenAI,2.92,2019-07-22,United States,San Francisco,Artificial intelligence
-DataRobot,6.3,2019-07-29,United States,Boston,Artificial intelligence
-Lightricks,1.8,2019-07-31,Israel,Jerusalem,Artificial intelligence
-SmartNews,2.0,2019-08-05,Japan,Tokyo,Mobile & telecommunications
-Scale AI,7.3,2019-08-05,United States,San Francisco,Artificial intelligence
-Cybereason,2.44,2019-08-06,United States,Boston,Cybersecurity
-Ibotta,1.0,2019-08-06,United States,Denver,Fintech
-C2FO,1.0,2019-08-07,United States,Leawood,Fintech
-Numbrs,1.0,2019-08-22,Switzerland,Zurich,Fintech
-Grove Collaborative,1.32,2019-09-06,United States,San Francisco,E-commerce & direct-to-consumer
-QuintoAndar,5.1,2019-09-09,Brazil,Campinas,E-commerce & direct-to-consumer
-Anduril,4.6,2019-09-11,United States,Irvine,Artificial intelligence
-Acronis,2.5,2019-09-18,Switzerland,Schaffhausen,Cybersecurity
-Checkr,4.6,2019-09-19,United States,San Francisco,Internet software & services
-Workrise,2.9,2019-09-30,United States,Austin,Internet software & services
-Dave,1.0,2019-09-30,United States,Los Angeles,Fintech
-Next Insurance,4.0,2019-10-07,United States,Palo Alto,Fintech
-Grammarly,13.0,2019-10-10,United States,San Francisco,Internet software & services
-EBANX,1.0,2019-10-16,Brazil,Curitiba,Fintech
-Pendo,2.6,2019-10-17,United States,Raleigh,Internet software & services
-Instabase,1.05,2019-10-21,United States,San Francisco,Data management & analytics
-Scopely,3.3,2019-10-29,United States,Culver City,Mobile & telecommunications
-Faire,12.4,2019-10-30,United States,San Francisco,Artificial intelligence
-Guild Education,3.75,2019-11-13,United States,Denver,Internet software & services
-You & Mr Jones,1.3,2019-11-19,United States,New York,Other
-Vinted,4.53,2019-11-27,Lithuania,Vilnius,E-commerce & direct-to-consumer
-Dataiku,4.6,2019-12-04,United States,New York,Internet software & services
-Wildlife Studios,3.0,2019-12-05,Brazil,Sao Paulo,Other
-Glovo,1.0,2019-12-19,Spain,Barcelona,"Supply chain, logistics, & delivery"
-Lenskart,2.5,2019-12-20,India,Faridabad,E-commerce & direct-to-consumer
-Ripple,10.0,2019-12-20,United States,San Francisco,Fintech
-Loft,2.9,2020-01-03,Brazil,Sao Paulo,E-commerce & direct-to-consumer
-HighRadius,3.1,2020-01-07,United States,Houston,Fintech
-Sisense,1.1,2020-01-09,United States,New York,Data management & analytics
-AppsFlyer,2.0,2020-01-21,United States,San Francisco,Mobile & telecommunications
-Pine Labs,3.0,2020-01-24,India,Noida,Fintech
-Moon Active,5.0,2020-01-26,Israel,Tel Aviv,Mobile & telecommunications
-Justworks,1.43,2020-01-28,United States,New York,Internet software & services
-Verkada,1.6,2020-01-29,United States,San Mateo,Cybersecurity
-Alto Pharmacy,1.0,2020-01-30,United States,San Francisco,Health
-FirstCry,2.1,2020-02-07,India,Pune,E-commerce & direct-to-consumer
-Skydance Media,2.3,2020-02-11,United States,Santa Monica,Other
-Course Hero,1.1,2020-02-12,United States,Redwood City,Edtech
-InSightec,1.3,2020-03-06,Israel,Tirat Carmel,Health
-Hotmart,1.0,2020-03-17,Netherlands,Amsterdam,E-commerce & direct-to-consumer
-Via,3.3,2020-03-30,United States,New York,Auto & transportation
-Notion Labs,10.0,2020-04-01,United States,San Francisco,Internet software & services
-Podium,3.0,2020-04-07,United States,Lehi,Internet software & services
-VAST Data,3.7,2020-04-16,United States,New York,Data management & analytics
-Emerging Markets Property Group,1.0,2020-04-28,United Arab Emirates,Dubai,Other
-o9 Solutions,1.0,2020-04-28,United States,Dallas,Artificial intelligence
-Figma,10.0,2020-04-30,United States,San Francisco,Internet software & services
-ApplyBoard,3.0,2020-05-05,Canada,Kitchener,Edtech
-Quizlet,1.0,2020-05-13,United States,San Francisco,Edtech
-Komodo Health,3.3,2020-05-22,United States,San Francisco,Health
-HyalRoute,3.5,2020-05-26,Singapore,,Mobile & telecommunications
-Apeel Sciences,2.0,2020-05-26,United States,Goleta,Other
-Postman,5.6,2020-06-11,United States,San Francisco,Internet software & services
-Pagaya,2.0,2020-06-17,Israel,Tel Aviv,Fintech
-Orca Bio,1.0,2020-06-17,United States,Menlo Park,Health
-Workhuman,1.2,2020-06-23,Ireland,Dublin,Internet software & services
-FiveTran,5.6,2020-06-30,United States,Oakland,Data management & analytics
-National Stock Exchange of India,6.5,2020-07-01,India,Mumbai,Fintech
-Thrasio,10.0,2020-07-15,United States,Walpole,Other
-Trumid,2.4,2020-07-15,United States,New York,Fintech
-Qumulo,1.2,2020-07-16,United States,Seattle,Data management & analytics
-Ro,5.0,2020-07-27,United States,New York,Health
-Infobip,1.0,2020-07-30,Croatia,Vodnjan,Mobile & telecommunications
-Farmers Business Network,4.0,2020-08-03,United States,San Carlos,Other
-Rippling,6.5,2020-08-04,United States,San Francisco,Internet software & services
-Gong,7.25,2020-08-12,United States,Palo Alto,Artificial intelligence
-Voodoo,2.31,2020-08-17,France,Paris,Other
-Lyra Health,4.6,2020-08-25,United States,Burlingame,Health
-Redis Labs,2.0,2020-08-25,United States,Mountain View,Data management & analytics
-Unacademy,3.44,2020-09-02,India,Bengaluru,Edtech
-Patreon,4.0,2020-09-02,United States,San Francisco,Internet software & services
-Mollie,6.5,2020-09-08,Netherlands,Amsterdam,Fintech
-Zwift,1.0,2020-09-16,United States,Long Beach,E-commerce & direct-to-consumer
-Playco,1.0,2020-09-21,Japan,Tokyo,Other
-Mirakl,3.5,2020-09-22,France,Paris,E-commerce & direct-to-consumer
-Attentive,5.99,2020-09-23,United States,Hoboken,Mobile & telecommunications
-GOAT,3.7,2020-09-23,United States,Culver City,E-commerce & direct-to-consumer
-Greenlight,2.3,2020-09-24,United States,Atlanta,Fintech
-Alzheon,1.31,2020-09-30,United States,Framingham,Health
-Kavak,8.7,2020-10-01,Mexico,Lerma de Villada,E-commerce & direct-to-consumer
-Tipalti,8.3,2020-10-06,United States,San Mateo,Fintech
-Unqork,2.0,2020-10-06,United States,New York,Fintech
-Dialpad,1.2,2020-10-06,United States,San Francisco,Internet software & services
-MessageBird,3.8,2020-10-08,Netherlands,Amsterdam,Mobile & telecommunications
-goPuff,15.0,2020-10-08,United States,Philadelphia,E-commerce & direct-to-consumer
-Razorpay,3.0,2020-10-11,India,Bengaluru,Fintech
-Proterra,1.05,2020-10-15,United States,Burlingame,"Supply chain, logistics, & delivery"
-Tekion,3.5,2020-10-21,United States,San Ramon,Internet software & services
-Arctic Wolf Networks,4.3,2020-10-22,United States,Eden Prairie,Cybersecurity
-Applied Intuition,3.6,2020-10-22,United States,Sunnyvale,Data management & analytics
-Eightfold.ai,2.1,2020-10-27,United States,Santa Clara,Internet software & services
-Whoop,3.6,2020-10-28,United States,Boston,E-commerce & direct-to-consumer
-Better.com,6.0,2020-11-10,United States,New York,Fintech
-Pharmapacks,1.1,2020-11-12,United States,Islandia,E-commerce & direct-to-consumer
-Strava,1.5,2020-11-16,United States,San Francisco,Internet software & services
-Cato Networks,2.5,2020-11-17,Israel,Tel Aviv,Cybersecurity
-Klaviyo,9.2,2020-11-17,United States,Boston,Internet software & services
-Forter,3.0,2020-11-19,United States,New York,Cybersecurity
-Relativity Space,4.2,2020-11-23,United States,Inglewood,Other
-Chainalysis,4.2,2020-11-23,United States,New York,Fintech
-Cars24,1.84,2020-11-24,India,Gurgaon,E-commerce & direct-to-consumer
-Olive,4.0,2020-12-01,United States,Columbus,Internet software & services
-C6 Bank,5.05,2020-12-02,Brazil,Sao Paulo,Fintech
-Virta Health,2.0,2020-12-02,United States,San Francisco,Health
-Everly Health,1.3,2020-12-03,United States,Austin,E-commerce & direct-to-consumer
-Cityblock Health,5.7,2020-12-10,United States,Brooklyn,Health
-Venafi,1.15,2020-12-10,United States,Salt Lake City,Cybersecurity
-ClickUp,4.0,2020-12-15,United States,San Diego,Internet software & services
-Zenoti,1.5,2020-12-15,United States,Bellevue,Internet software & services
-BigID,1.25,2020-12-16,United States,New York,Cybersecurity
-Boom Supersonic,1.0,2020-12-16,United States,Englewood,Other
-ISN,2.0,2020-12-17,United States,Dallas,"Supply chain, logistics, & delivery"
-Creditas,1.75,2020-12-18,Brazil,Sao Paulo,Fintech
-Qualia,1.0,2020-12-21,United States,San Francisco,Fintech
-DailyHunt,1.0,2020-12-22,India,Bengaluru,Internet software & services
-Kong,1.4,2020-12-31,United States,San Francisco,Internet software & services
-Color,4.6,2021-01-04,United States,Burlingame,Health
-Mambu,2.08,2021-01-06,Germany,Berlin,Fintech
-Hinge Health,6.2,2021-01-06,United States,San Francisco,Health
-Starburst,1.2,2021-01-06,United States,Boston,Data management & analytics
-SalesLoft,1.1,2021-01-06,United States,Atlanta,Internet software & services
-Dremio,1.0,2021-01-06,United States,Santa Clara,Data management & analytics
-MadeiraMadeira,1.0,2021-01-07,Brazil,Parana,E-commerce & direct-to-consumer
-PointClickCare,4.0,2021-01-07,Canada,Mississauga,Internet software & services
-Lacework,8.3,2021-01-07,United States,San Jose,Cybersecurity
-Quantum Metric,1.0,2021-01-07,United States,Colorado Springs,Data management & analytics
-News Break,1.0,2021-01-07,United States,Mountain View,Internet software & services
-EQRx,1.23,2021-01-11,United States,Cambridge,Health
-Workato,5.7,2021-01-12,United States,Mountain View,Internet software & services
-Cockroach Labs,2.16,2021-01-12,United States,New York,Data management & analytics
-Webflow,2.1,2021-01-13,United States,San Francisco,Internet software & services
-MX Technologies,1.9,2021-01-13,United States,Lehi,Fintech
-Sennder,1.1,2021-01-14,Germany,Berlin,"Supply chain, logistics, & delivery"
-Zapier,4.0,2021-01-14,United States,Sunnyvale,Internet software & services
-Harness,1.7,2021-01-14,United States,San Francisco,Artificial intelligence
-Digit Insurance,3.5,2021-01-15,India,Bengaluru,Fintech
-Personio,6.3,2021-01-19,Germany,Munich,Internet software & services
-Aledade,1.9,2021-01-19,United States,Bethesda,Health
-K Health,1.5,2021-01-19,United States,New York,Health
-Clubhouse,4.0,2021-01-24,United States,San Francisco,Mobile & telecommunications
-Melio,4.0,2021-01-25,Israel,Tel Aviv,Fintech
-Calendly,3.0,2021-01-26,United States,Atlanta,Internet software & services
-Sidecar Health,1.0,2021-01-26,United States,El Segundo,Fintech
-DriveNets,1.0,2021-01-27,Israel,Ra'anana,Internet software & services
-Splashtop,1.0,2021-01-27,United States,San Jose,Internet software & services
-OwnBackup,3.35,2021-01-28,United States,Englewood Cliffs,Data management & analytics
-Flash Express,1.0,2021-02-01,Thailand,Bangkok,"Supply chain, logistics, & delivery"
-Stash,1.4,2021-02-03,United States,New York,Fintech
-Tealium,1.2,2021-02-03,United States,San Diego,Internet software & services
-Nexthink,1.1,2021-02-08,Switzerland,Prilly,Data management & analytics
-Modern Health,1.17,2021-02-11,United States,San Francisco,Health
-Axiom Space,1.0,2021-02-16,United States,Houston,Other
-Public,1.2,2021-02-17,United States,New York,Fintech
-Locus Robotics,1.0,2021-02-17,United States,Wilmington,Hardware
-Standard Cognition,1.0,2021-02-17,United States,San Francisco,Artificial intelligence
-Sentry,1.0,2021-02-18,United States,San Francisco,Other
-Innovaccer,1.3,2021-02-19,United States,San Francisco,Health
-Earnix,2.0,2021-02-21,Israel,Giv'atayim,Fintech
-Highspot,2.3,2021-02-22,United States,Seattle,Internet software & services
-Plume,2.6,2021-02-23,United States,Palo Alto,Internet software & services
-Infra.Market,2.5,2021-02-25,India,Thane,E-commerce & direct-to-consumer
-BetterUp,4.7,2021-02-25,United States,San Francisco,Internet software & services
-Skydio,1.0,2021-02-25,United States,Redwood City,"Supply chain, logistics, & delivery"
-Newsela,1.0,2021-02-25,United States,New York,Internet software & services
-Vestiaire Collective,1.7,2021-03-01,France,Paris,E-commerce & direct-to-consumer
-Axonius,1.2,2021-03-01,United States,New York,Cybersecurity
-DispatchHealth,1.7,2021-03-03,United States,Denver,Health
-Clari,1.6,2021-03-03,United States,Sunnyvale,Internet software & services
-Uplight,1.5,2021-03-03,United States,Boulder,Other
-Papaya Global,3.7,2021-03-04,United States,New York,Internet software & services
-Cedar,3.2,2021-03-09,United States,New York,Fintech
-Flutterwave,1.0,2021-03-09,United States,San Francisco,Fintech
-Aqua Security,1.0,2021-03-10,Israel,Ramat Gan,Cybersecurity
-Epidemic Sound,1.4,2021-03-11,Sweden,Stockholm,Internet software & services
-BlockFi,3.0,2021-03-11,United States,Jersey City,Fintech
-BitPanda,4.11,2021-03-16,Austria,Vienna,Fintech
-PatSnap,1.0,2021-03-16,Singapore,,Internet software & services
-Socure,4.5,2021-03-16,United States,New York,Cybersecurity
-Dutchie,3.75,2021-03-16,United States,Bend,E-commerce & direct-to-consumer
-Coalition,3.5,2021-03-16,United States,San Francisco,Cybersecurity
-Weee!,2.8,2021-03-16,United States,Fremont,"Supply chain, logistics, & delivery"
-Savage X Fenty,1.2,2021-03-16,United States,El Segundo,E-commerce & direct-to-consumer
-Wiz,6.0,2021-03-17,Israel,Tel Aviv,Cybersecurity
-Unite Us,1.7,2021-03-17,United States,New York,Health
-Relativity,3.6,2021-03-18,United States,Chicago,Internet software & services
-Yotpo,1.4,2021-03-18,United States,New York,Internet software & services
-ID.me,1.5,2021-03-19,United States,McLean,Cybersecurity
-Side,2.5,2021-03-22,United States,San Francisco,Internet software & services
-Evidation,1.0,2021-03-22,United States,San Mateo,Health
-Orca Security,1.8,2021-03-23,Israel,Tel Aviv-Yafo,Cybersecurity
-Rec Room,1.25,2021-03-23,United States,Seattle,Internet software & services
-Lattice,1.0,2021-03-23,United States,San Francisco,Internet software & services
-Hopper,3.0,2021-03-24,Canada,Montreal,Travel
-Pacaso,1.5,2021-03-24,United States,Cincinnati,Fintech
-Feedzai,1.0,2021-03-24,United States,San Mateo,Artificial intelligence
-Gorillas,3.1,2021-03-25,Germany,Berlin,E-commerce & direct-to-consumer
-ABL Space Systems,2.4,2021-03-25,United States,El Segundo,Other
-Five Star Business Finance,1.4,2021-03-26,India,Chennai,Other
-Pilot.com,1.2,2021-03-26,United States,San Francisco,Fintech
-Ramp Financial,3.9,2021-03-29,United States,New York,Fintech
-Diamond Foundry,1.8,2021-03-29,United States,San Francisco,Other
-Dapper Labs,7.6,2021-03-30,Canada,Vancouver,Fintech
-6Sense,2.1,2021-03-30,United States,San Francisco,Artificial intelligence
-Rightway,1.1,2021-03-30,United States,New York,Health
-Cameo,1.0,2021-03-30,United States,Chicago,Internet software & services
-Tonal,1.6,2021-03-31,United States,San Francisco,E-commerce & direct-to-consumer
-Fetch Rewards,1.0,2021-03-31,United States,Madison,E-commerce & direct-to-consumer
-Meesho,4.9,2021-04-05,India,Bengaluru,Internet software & services
-CRED,4.01,2021-04-06,India,Bengaluru,Fintech
-Sendbird,1.05,2021-04-06,United States,San Mateo,Mobile & telecommunications
-Groww,3.0,2021-04-07,India,Bengaluru,Fintech
-J&T Express,20.0,2021-04-07,Indonesia,Jakarta,"Supply chain, logistics, & delivery"
-Phenom People,1.4,2021-04-07,United States,Ambler,Internet software & services
-ShareChat,3.0,2021-04-08,India,Bengaluru,Internet software & services
-GupShup,1.4,2021-04-08,United States,San Francisco,Internet software & services
-Skims,1.6,2021-04-09,United States,Los Angeles,E-commerce & direct-to-consumer
-The Zebra,1.0,2021-04-12,United States,Austin,E-commerce & direct-to-consumer
-SambaNova Systems,5.0,2021-04-13,United States,Palo Alto,Data management & analytics
-Degreed,1.4,2021-04-13,United States,Pleasanton,Edtech
-Clearcover,1.0,2021-04-13,United States,Chicago,Fintech
-Benchling,6.1,2021-04-14,United States,San Francisco,Internet software & services
-Outschool,3.0,2021-04-14,United States,San Francisco,Edtech
-Astranis Space Technologies,1.4,2021-04-14,United States,San Francisco,Mobile & telecommunications
-Groq,1.0,2021-04-14,United States,Mountain View,Artificial intelligence
-Signifyd,1.34,2021-04-15,United States,San Jose,Fintech
-Alan,1.68,2021-04-19,France,Paris,Fintech
-Clearco,2.0,2021-04-20,Canada,Toronto,Fintech
-ChargeBee Technologies,1.4,2021-04-20,United States,Walnut,Fintech
-Injective Protocol,1.0,2021-04-20,United States,New York,Fintech
-Deel,5.5,2021-04-21,United States,San Francisco,Fintech
-ActiveCampaign,3.0,2021-04-21,United States,Chicago,Internet software & services
-Hive,2.0,2021-04-21,United States,San Francisco,Artificial intelligence
-Misfits Market,2.0,2021-04-21,United States,Pennsauken,E-commerce & direct-to-consumer
-Sift,1.0,2021-04-22,United States,San Francisco,Artificial intelligence
-Clio,1.6,2021-04-27,Canada,Burnaby,Internet software & services
-Urban Company,2.1,2021-04-27,India,Gurgaon,E-commerce & direct-to-consumer
-KRY,2.0,2021-04-27,Sweden,Stockholm,Health
-Current,2.2,2021-04-27,United States,New York,Fintech
-Cava Group,1.3,2021-04-27,United States,Washington,Other
-Sysdig,1.19,2021-04-28,United States,San Francisco,Cybersecurity
-Capsule,1.0,2021-04-28,United States,New York,Health
-Paxos,2.4,2021-04-29,United States,New York,Fintech
-MOLOCO,1.5,2021-04-29,United States,Redwood City,Artificial intelligence
-Vectra Networks,1.2,2021-04-29,United States,San Jose,Artificial intelligence
-Mux,1.0,2021-04-30,United States,San Francisco,Internet software & services
-SafetyCulture,1.6,2021-05-03,Australia,Sydney,Internet software & services
-Kajabi,2.0,2021-05-04,United States,Irvine,Internet software & services
-HoneyBook,1.1,2021-05-04,United States,San Francisco,Internet software & services
-Firefly Aerospace,1.0,2021-05-04,United States,Cedar Park,Other
-TensTorrent,1.0,2021-05-05,Canada,Toronto,Artificial intelligence
-Shift Technology,1.0,2021-05-05,France,Paris,Artificial intelligence
-Bitso,2.2,2021-05-05,Mexico,Mexico City,Fintech
-ReCharge,2.1,2021-05-06,United States,Los Angeles,Fintech
-Ada Support,1.2,2021-05-07,Canada,Toronto,Artificial intelligence
-Ethos Technologies,2.7,2021-05-11,United States,San Francisco,Fintech
-CircleCI,1.7,2021-05-11,United States,San Francisco,Internet software & services
-Trader Interactive,1.63,2021-05-12,United States,Norfolk,Other
-Handshake,1.5,2021-05-12,United States,San Francisco,Internet software & services
-Inari,1.2,2021-05-12,United States,Cambridge,Other
-Forte Labs,1.0,2021-05-12,United States,San Francisco,Fintech
-MasterClass,2.75,2021-05-13,United States,San Francisco,Edtech
-Axtria,1.0,2021-05-13,United States,Berkeley Heights,Data management & analytics
-Moglix,1.0,2021-05-17,Singapore,,E-commerce & direct-to-consumer
-Caris Life Sciences,7.83,2021-05-17,United States,Irving,Health
-Amount,1.0,2021-05-17,United States,Chicago,Fintech
-Back Market,3.2,2021-05-18,France,Paris,E-commerce & direct-to-consumer
-Extend,1.6,2021-05-18,United States,San Francisco,Fintech
-DailyPay,1.2,2021-05-18,United States,New York,Fintech
-Vise,1.0,2021-05-18,United States,New York,Fintech
-Cognite,1.6,2021-05-19,Norway,Lysaker,Data management & analytics
-Pipe,2.0,2021-05-19,United States,Miami,Fintech
-ASAPP,1.6,2021-05-19,United States,New York,Artificial intelligence
-Trade Republic,5.3,2021-05-20,Germany,Berlin,Fintech
-Black Unicorn Factory,6.1,2021-05-20,United States,Los Angeles,Other
-Loom,1.53,2021-05-20,United States,San Francisco,Internet software & services
-Sunbit,1.1,2021-05-20,United States,Los Angeles,Fintech
-Noom,3.7,2021-05-24,United States,New York,Health
-Zeta,1.45,2021-05-24,United States,San Francisco,Fintech
-Printful,1.0,2021-05-24,United States,Charlotte,Other
-ContentSquare,2.8,2021-05-25,France,Paris,Internet software & services
-Bowery Farming,2.3,2021-05-25,United States,New York,Other
-Snapdocs,1.5,2021-05-25,United States,San Francisco,Fintech
-SpotOn,3.15,2021-05-26,United States,San Francisco,Fintech
-Matrixport,1.0,2021-06-01,Singapore,,Fintech
-Exabeam,2.4,2021-06-01,United States,Foster City,Cybersecurity
-Chipper Cash,2.0,2021-06-01,United States,San Francisco,Fintech
-Project44,1.2,2021-06-01,United States,Chicago,"Supply chain, logistics, & delivery"
-Oda,1.2,2021-06-02,Norway,Oslo,E-commerce & direct-to-consumer
-Shippo,1.0,2021-06-02,United States,San Francisco,"Supply chain, logistics, & delivery"
-Thirty Madison,1.0,2021-06-02,United States,New York,Health
-Alation,1.2,2021-06-03,United States,Redwood City,Internet software & services
-Trulioo,1.75,2021-06-07,Canada,Vancouver,Cybersecurity
-LetsGetChecked,1.0,2021-06-07,Ireland,Dublin,Health
-SSENSE,4.15,2021-06-08,Canada,Montreal,E-commerce & direct-to-consumer
-Scalable Capital,1.4,2021-06-08,Germany,Munich,Fintech
-VerbIT,2.0,2021-06-08,Israel,Tel Aviv,Artificial intelligence
-SmartHR,1.6,2021-06-08,Japan,Tokyo,Fintech
-Morning Consult,1.0,2021-06-08,United States,Washington DC,Internet software & services
-Aura,2.5,2021-06-09,United States,Burlington,Cybersecurity
-Ledger,1.5,2021-06-10,France,Paris,Hardware
-Clip,2.0,2021-06-10,Mexico,Mexico City,Fintech
-Cerebral,4.8,2021-06-10,United States,San Francisco,Health
-Next Silicon,1.5,2021-06-14,Israel,Tel Aviv,Hardware
-Carro,1.0,2021-06-14,Singapore,,E-commerce & direct-to-consumer
-Addepar,2.17,2021-06-15,United States,Mountain View,Fintech
-Iterable,2.0,2021-06-15,United States,San Francisco,Internet software & services
-IRL,1.17,2021-06-15,United States,San Francisco,Internet software & services
-BrowserStack,4.0,2021-06-16,Ireland,Dublin,Internet software & services
-Bringg,1.0,2021-06-16,Israel,Tel Aviv,"Supply chain, logistics, & delivery"
-Guideline,1.15,2021-06-16,United States,San Mateo,Fintech
-Neo4j,2.15,2021-06-17,United States,San Mateo,Data management & analytics
-Claroty,1.0,2021-06-17,United States,New York,Cybersecurity
-Bunq,2.0,2021-06-18,Netherlands,Amsterdam,Fintech
-Forto,1.2,2021-06-21,Germany,Berlin,"Supply chain, logistics, & delivery"
-JoyTunes,1.0,2021-06-21,Israel,Tel Aviv,Edtech
-GoStudent,1.7,2021-06-22,Austria,Vienna,Edtech
-Transmit Security,2.74,2021-06-22,Israel,Tel Aviv,Cybersecurity
-G2,1.1,2021-06-22,United States,Chicago,Internet software & services
-Hailo,1.0,2021-06-23,Israel,Tel Aviv,Artificial intelligence
-Vercel,2.5,2021-06-23,United States,San Francisco,Internet software & services
-Aircall,1.0,2021-06-23,United States,New York,Internet software & services
-SmartAsset,1.0,2021-06-24,United States,New York,Fintech
-Visier,1.0,2021-06-29,Canada,Vancouver,Internet software & services
-Lucid Software,3.0,2021-06-29,United States,South Jordan,Internet software & services
-ShipBob,1.0,2021-06-29,United States,Chicago,"Supply chain, logistics, & delivery"
-Grofers,1.01,2021-06-30,India,Gurgaon,"Supply chain, logistics, & delivery"
-Moveworks,2.1,2021-06-30,United States,Mountain View,Artificial intelligence
-dbt Labs,1.5,2021-06-30,United States,Philadelphia,Data management & analytics
-bolttech,1.0,2021-07-01,Singapore,,Fintech
-Kitopi,1.0,2021-07-01,United Arab Emirates,Dubai,"Supply chain, logistics, & delivery"
-Articulate,3.75,2021-07-01,United States,New York,Edtech
-Mercury,1.6,2021-07-03,United States,San Francisco,Fintech
-ManoMano,2.6,2021-07-05,France,Paris,E-commerce & direct-to-consumer
-Pleo,1.7,2021-07-06,Denmark,Copenhagen,Fintech
-MobileCoin,1.0,2021-07-07,United States,San Francisco,Fintech
-1Password,2.0,2021-07-08,Canada,Toronto,Cybersecurity
-Coda,1.4,2021-07-08,United States,Mountain View,Internet software & services
-Lunar,1.0,2021-07-12,Denmark,Aarhus,Fintech
-Carsome,1.3,2021-07-12,Malaysia,Selangor,E-commerce & direct-to-consumer
-solarisBank,1.65,2021-07-13,Germany,Berlin,Fintech
-NIUM,1.0,2021-07-13,Singapore,,Fintech
-Sourcegraph,2.62,2021-07-13,United States,San Francisco,Internet software & services
-Impact,1.5,2021-07-13,United States,Santa Barbara,Internet software & services
-Prime Medicine,1.2,2021-07-13,United States,Cambridge,Health
-Amperity,1.0,2021-07-13,United States,Seattle,Artificial intelligence
-Remote,1.0,2021-07-13,United States,San Francisco,Fintech
-Pantheon Systems,1.0,2021-07-13,United States,San Francisco,Internet software & services
-M1 Finance,1.45,2021-07-14,United States,Chicago,Fintech
-Carson Group,1.0,2021-07-14,United States,Lincoln,Fintech
-GO1,1.0,2021-07-19,Australia,Brisbane,Internet software & services
-MURAL,2.0,2021-07-20,United States,San Francisco,Internet software & services
-OpenSea,1.5,2021-07-20,United States,New York,E-commerce & direct-to-consumer
-SmartRecruiters,1.5,2021-07-20,United States,San Francisco,Internet software & services
-Carbon Health,3.0,2021-07-21,United States,San Francisco,Health
-FloQast,1.2,2021-07-21,United States,Los Angeles,Fintech
-BlackBuck,1.0,2021-07-22,India,Bengaluru,"Supply chain, logistics, & delivery"
-Interos,1.0,2021-07-22,United States,Arlington,Fintech
-NotCo,1.5,2021-07-26,Chile,Santiago,Artificial Intelligence
-Fireblocks,8.0,2021-07-27,United States,New York,Fintech
-iCapital Network,4.0,2021-07-27,United States,New York,Fintech
-PsiQuantum,3.15,2021-07-27,United States,Palo Alto,Hardware
-At-Bay,1.35,2021-07-27,United States,Mountain View,Fintech
-Contentful,3.0,2021-07-28,Germany,Berlin,Internet software & services
-Redwood Materials,3.7,2021-07-28,United States,Carson City,Other
-LaunchDarkly,3.0,2021-07-28,United States,Oakland,Internet software & services
-Algolia,2.25,2021-07-28,United States,San Francisco,Internet software & services
-SonderMind,1.42,2021-07-28,United States,Denver,Health
-Culture Amp,1.5,2021-07-29,Australia,Richmond,Internet software & services
-Odoo,2.3,2021-07-29,Belgium,Louvain-la-Neuve,Internet software & services
-BharatPe,2.85,2021-07-30,India,New Delhi,Fintech
-OfBusiness,3.0,2021-07-31,India,Gurgaon,E-commerce & direct-to-consumer
-Unico,1.0,2021-08-03,Brazil,Sao Paulo,Artificial intelligence
-MindTickle,1.2,2021-08-03,United States,San Francisco,Internet software & services
-FullStory,1.8,2021-08-04,United States,Atlanta,Internet software & services
-TaxBit,1.5,2021-08-04,United States,Draper,Fintech
-Human Interest,1.0,2021-08-04,United States,San Francisco,Fintech
-Bluecore,1.0,2021-08-05,United States,New York,Artificial intelligence
-UpGrad,1.2,2021-08-09,India,Mumbai,Edtech
-Snorkel AI,1.0,2021-08-09,United States,Palo Alto,Artificial intelligence
-Freshbooks,1.0,2021-08-10,Canada,Toronto,Fintech
-CoinDCX,1.1,2021-08-10,India,Maharashtra,Fintech
-FalconX,3.75,2021-08-10,United States,San Mateo,Fintech
-Reify Health,2.2,2021-08-10,United States,Boston,Health
-People.ai,1.1,2021-08-11,United States,San Francisco,Internet software & services
-Eruditus Executive Education,3.2,2021-08-12,India,Mumbai,Edtech
-Uala,2.45,2021-08-13,Argentina,Buenos Aires,Fintech
-Divvy Homes,2.0,2021-08-13,United States,San Francisco,Fintech
-Gelato,1.0,2021-08-16,Norway,Oslo,E-commerce & direct-to-consumer
-DistroKid,1.3,2021-08-16,United States,New York,Internet software & services
-Nuvemshop,3.1,2021-08-17,Brazil,Sao Paulo,E-commerce & direct-to-consumer
-Maven Clinic,1.0,2021-08-17,United States,New York,Health
-Zetwerk,1.33,2021-08-20,India,Bengaluru,Internet software & services
-DriveWealth,2.85,2021-08-20,United States,Chatham,Fintech
-Blockstream,3.2,2021-08-24,Canada,Vancouver,Fintech
-Grafana Labs,3.0,2021-08-24,United States,New York,Internet software & services
-Shield AI,1.0,2021-08-24,United States,San Diego,Artificial intelligence
-PicsArt,1.0,2021-08-26,United States,San Francisco,Mobile & telecommunications
-Offchain Labs,1.2,2021-08-31,United States,Princeton,Internet software & services
-Berlin Brands Group,1.0,2021-09-01,Germany,Berlin,E-commerce & direct-to-consumer
-HomeLight,1.6,2021-09-02,United States,San Francisco,Fintech
-1,2.15,2021-09-08,Brazil,Sao Paulo,Fintech
-Nexii,1.23,2021-09-08,Canada,Vancouver,Other
-Spiber,1.22,2021-09-08,Japan,Tsuruoka,Other
-Agile Robots,1.0,2021-09-09,Germany,Munich,Hardware
-Varo Bank,2.5,2021-09-09,United States,San Francisco,Fintech
-Mammoth Biosciences,1.0,2021-09-09,United States,Brisbane,Health
-Orchard,1.0,2021-09-09,United States,New York,Fintech
-Copado,1.2,2021-09-13,Spain,Madrid,Data management & analytics
-Commure,3.5,2021-09-13,United States,San Francisco,Internet software & services
-JumpCloud,2.62,2021-09-13,United States,Louisville,Data management & analytics
-BitSight Technologies,2.4,2021-09-13,United States,Boston,Cybersecurity
-STORD,1.13,2021-09-13,United States,Atlanta,"Supply chain, logistics, & delivery"
-Xendit,1.0,2021-09-14,Indonesia,Jakarta,Fintech
-Nextiva,2.7,2021-09-14,United States,Scottsdale,Internet software & services
-1047 Games,1.5,2021-09-14,United States,Zephyr Cove,Internet software & services
-GrubMarket,1.2,2021-09-14,United States,San Francisco,E-commerce & direct-to-consumer
-Mobile Premier League,2.45,2021-09-15,India,Bengaluru,Internet software & services
-apna,1.1,2021-09-15,India,Bengaluru,Internet software & services
-Carousell,1.1,2021-09-15,Singapore,,E-commerce & direct-to-consumer
-CFGI,1.85,2021-09-15,United States,Boston,Fintech
-Persona,1.5,2021-09-15,United States,San Francisco,Cybersecurity
-Spring Health,2.0,2021-09-16,United States,New York,Health
-Whatnot,1.5,2021-09-16,United States,Marina del Rey,E-commerce & direct-to-consumer
-Rebellion Defense,1.15,2021-09-16,United States,Washington DC,Artificial intelligence
-Sorare,4.3,2021-09-21,France,Paris,E-commerce & direct-to-consumer
-BlockDaemon,1.23,2021-09-21,United States,Los Angeles,Fintech
-Assembly,1.0,2021-09-21,United States,Culver City,Internet software & services
-PandaDoc,1.0,2021-09-22,United States,San Francisco,Internet software & services
-Advance Intelligence Group,2.0,2021-09-23,Singapore,,Artificial intelligence
-Opentrons,1.8,2021-09-23,United States,New York,Hardware
-Ninja Van,1.0,2021-09-27,Singapore,,"Supply chain, logistics, & delivery"
-Ascend Money,1.5,2021-09-27,Thailand,Bangkok,Fintech
-Gem,1.2,2021-09-28,United States,San Francisco,Internet software & services
-Vedantu,1.0,2021-09-29,India,Bengaluru,Edtech
-Konfio,1.3,2021-09-29,Mexico,Mexico City,Fintech
-Andela,1.5,2021-09-29,United States,New York,Internet software & services
-Betterment,1.3,2021-09-29,United States,New York,Fintech
-Built,1.5,2021-09-30,United States,Nashville,Internet software & services
-Alloy,1.35,2021-09-30,United States,New York,Fintech
-Licious,1.0,2021-10-05,India,Bengaluru,E-commerce & direct-to-consumer
-Honor Technology,1.25,2021-10-05,United States,San Francisco,Internet software & services
-Masterworks,1.0,2021-10-05,United States,New York,Fintech
-CoinSwitch Kuber,1.9,2021-10-06,India,Bangalore,Fintech
-Pattern,2.25,2021-10-06,United States,Lehi,Internet software & services
-Modern Treasury,2.0,2021-10-06,United States,San Francisco,Fintech
-Elemy,1.15,2021-10-06,United States,San Francisco,Health
-Rebel Foods,1.4,2021-10-07,India,Pune,E-commerce & direct-to-consumer
-Chronosphere,1.0,2021-10-07,United States,New York,Data management & analytics
-Solo.io,1.0,2021-10-07,United States,Cambridge,Internet software & services
-Bolt,6.0,2021-10-08,United States,San Francisco,Fintech
-Swile,1.0,2021-10-11,France,Montpellier,Fintech
-Hibob,1.65,2021-10-12,Israel,Tel Aviv,Internet software & services
-Celsius Network,3.0,2021-10-12,United States,Hoboken,Fintech
-CarDekho,1.2,2021-10-13,India,Jaipur,E-commerce & direct-to-consumer
-GoodLeap,12.0,2021-10-13,United States,Roseville,Internet software & services
-Vuori,4.0,2021-10-13,United States,Carlsbad,E-commerce & direct-to-consumer
-Karat,1.1,2021-10-13,United States,Seattle,Internet software & services
-TradingView,3.0,2021-10-14,United States,Westerville,Fintech
-CoinList,1.5,2021-10-15,United States,San Francisco,Fintech
-Aiven,2.0,2021-10-18,Finland,Helsinki,Internet software & services
-Enpal,1.1,2021-10-18,Germany,Berlin,Internet software & services
-Acko General Insurance,1.1,2021-10-18,India,Bengaluru,Fintech
-Flock Freight,1.3,2021-10-20,United States,Encinitas,"Supply chain, logistics, & delivery"
-CargoX,1.0,2021-10-21,Brazil,Sao Paulo,"Supply chain, logistics, & delivery"
-Dental Monitoring,1.0,2021-10-21,France,Paris,Health
-candy.com,1.5,2021-10-21,United States,New York,Fintech
-VideoAmp,1.4,2021-10-21,United States,Los Angeles,Internet software & services
-Tier Mobility,2.0,2021-10-25,Germany,Berlin,Travel
-Medable,2.1,2021-10-26,United States,Palo Alto,Internet software & services
-Devo,1.5,2021-10-26,United States,Cambridge,Data management & analytics
-Fabric,1.0,2021-10-26,United States,New York,"Supply chain, logistics, & delivery"
-Augury,1.0,2021-10-26,United States,New York,Artificial intelligence
-Truepill,1.6,2021-10-27,United States,Hayward,Health
-Mynt,2.0,2021-10-28,Philippines,Taguig City,Fintech
-Alchemy,3.5,2021-10-28,United States,San Francisco,Fintech
-ClickHouse,2.0,2021-10-28,United States,Portola Valley,Data management & analytics
-Dragos,1.7,2021-10-28,United States,Hanover,Cybersecurity
-YugaByte,1.3,2021-10-28,United States,Sunnyvale,Data management & analytics
-Digital Currency Group,10.0,2021-11-01,United States,New York,Finttech
-Everlaw,2.0,2021-11-02,United States,Oakland,Internet software & services
-Vagaro,1.0,2021-11-03,United States,Dublin,Internet software & services
-Reltio,1.7,2021-11-04,United States,Redwood City,Data management & analytics
-Papa,1.4,2021-11-04,United States,Miami,Health
-Mythical Games,1.25,2021-11-04,United States,Sherman Oaks,Internet software & services
-H2O.ai,1.7,2021-11-07,United States,Mountain View,Artificial intelligence
-Razor,1.0,2021-11-08,Germany,Berlin,Consumer & retail
-Drata,1.0,2021-11-08,United States,San Diego,Cybersecurity
-ZenBusiness,1.7,2021-11-09,United States,Austin,Fintech
-OpenWeb,1.0,2021-11-09,United States,New York,Internet software & services
-Contrast Security,1.0,2021-11-09,United States,Los Altos,Cybersecurity
-CureFit,1.5,2021-11-10,India,Bengaluru,Health
-MyGlamm,1.2,2021-11-10,India,Mumbai,E-commerce & direct-to-consumer
-Lusha,1.5,2021-11-10,United States,New York,Internet software & services
-Density,1.05,2021-11-10,United States,San Francisco,Hardware
-Wrapbook,1.0,2021-11-10,United States,New York,Fintech
-Mixpanel,1.05,2021-11-15,United States,San Francisco,Internet software & services
-Mensa Brands,1.0,2021-11-16,India,Bengaluru,Other
-Daily Harvest,1.1,2021-11-16,United States,New York,E-commerce & direct-to-consumer
-Heyday,1.0,2021-11-16,United States,Chicago,E-commerce & direct-to-consumer
-StarkWare,2.0,2021-11-17,Israel,Netanya,Cybersecurity
-ConsenSys,3.2,2021-11-17,United States,New York,Fintech
-Netlify,2.0,2021-11-17,United States,San Francisco,Internet software & services
-PLACE,1.0,2021-11-17,United States,Bellingham,Internet software & services
-Stytch,1.0,2021-11-18,United States,San Francisco,Cybersecurity
-Owkin,1.0,2021-11-18,United States,New York,Artificial Intelligence
-Expel,1.0,2021-11-18,United States,Herndon,Cybersecurity
-Gemini,7.1,2021-11-19,United States,New York,Fintech
-MoonPay,3.4,2021-11-22,United States,Miami,Fintech
-Deliverr,2.0,2021-11-22,United States,San Francisco,"Supply chain, logistics, & delivery"
-SWORD Health,2.0,2021-11-22,United States,New York,Health
-LTK,2.0,2021-11-22,United States,Dallas,Internet software & services
-NoBroker,1.0,2021-11-23,India,Bengaluru,Internet software & services
-Spinny,1.75,2021-11-24,India,Gurugram,E-commerce & direct-to-consumer
-Slice,1.0,2021-11-28,India,Bengaluru,Fintech
-Fundbox,1.1,2021-11-30,United States,San Francisco,Fintech
-Lessen,1.0,2021-11-30,United States,Scottsdale,Internet software & services
-Flink,2.7,2021-12-01,Germany,Berlin,E-commerce & direct-to-consumer
-Jobandtalent,2.35,2021-12-01,Spain,Madrid,Internet software & services
-Iodine Software,1.0,2021-12-01,United States,Austin,Data management & analytics
-ReliaQuest,1.0,2021-12-01,United States,Tampa,Cybersecurity
-Panther Labs,1.4,2021-12-02,United States,San Francisco,Cybersecurity
-Jokr,1.2,2021-12-02,United States,New York,E-commerce & direct-to-consumer
-Clara,1.0,2021-12-06,Mexico,Mexico City,Fintech
-YipitData,1.0,2021-12-06,United States,New York,Internet software & services
-Pet Circle,1.0,2021-12-07,Australia,Alexandria,E-commerce & direct-to-consumer
-Pristyn Care,1.2,2021-12-07,India,Gurugram,Health
-Incode Technologies,1.25,2021-12-07,United States,San Francisco,Cybersecurity
-AgentSync,1.2,2021-12-07,United States,Denver,Fintech
-Anyscale,1.0,2021-12-07,United States,Berkeley,Artificial Intelligence
+Company,Valuation,Country,City,Industry,Year
+Red Ventures,1.0,United States,Fort Mill,Other,2015
+Tanium,9.0,United States,Kirkland,Cybersecurity,2015
+Planet Labs,2.2,United States,San Francisco,Other,2015
+Illumio,2.75,United States,Sunnyvale,Cybersecurity,2015
+Infinidat,1.6,United States,Waltham,Hardware,2015
+Zenefits,4.5,United States,San Francisco,Fintech,2015
+LifeMiles,1.15,Colombia,Bogota,Other,2015
+Flipboard,1.32,United States,Palo Alto,Internet software & services,2015
+Vox Media,1.0,United States,Washington,Internet software & services,2015
+Carbon,2.4,United States,Redwood City,Hardware,2015
+ZocDoc,1.8,United States,New York,Health,2015
+BlaBlaCar,2.0,France,Paris,Auto & transportation,2015
+Thumbtack,3.2,United States,San Francisco,E-commerce & direct-to-consumer,2015
+AppDirect,1.1,United States,San Francisco,E-commerce & direct-to-consumer,2015
+Uptake,2.3,United States,Chicago,Artificial intelligence,2015
+Gusto,10.0,United States,San Francisco,Fintech,2015
+MindMaze,1.0,Switzerland,Lausanne,Health,2016
+Age of Learning,3.0,United States,Glendale,Edtech,2016
+Gett,1.5,Israel,Tel Aviv,Auto & transportation,2016
+SMS Assist,1.0,United States,Chicago,Internet software & services,2016
+OVH,1.1,France,Roubaix,Other,2016
+Quanergy Systems,2.0,United States,Sunnyvale,Auto & transportation,2016
+Promasidor Holdings,1.59,South Africa,Bryanston,Consumer & retail,2016
+Kendra Scott,1.0,United States,Austin,Consumer & retail,2016
+Traveloka,3.0,Indonesia,Jakarta,Travel,2017
+Quora,2.0,United States,Mountain View,Internet software & services,2017
+Rubrik,4.0,United States,Palo Alto,Data management & analytics,2017
+Modernizing Medicine,1.0,United States,Boca Raton,Health,2017
+Symphony,1.4,United States,New York,Fintech,2017
+Otto Bock HealthCare,3.52,Germany,Duderstadt,Health,2017
+BYJU's,21.0,India,Bengaluru,Edtech,2017
+reddit,10.0,United States,San Francisco,Internet software & services,2017
+Cell C,1.0,South Africa,Midrand,Mobile & telecommunications,2017
+Vista Global,2.5,United Arab Emirates,Dubai,Other,2017
+Rubicon Global,1.07,United States,Atlanta,Other,2017
+Indigo Ag,3.5,United States,Boston,Artificial intelligence,2017
+Revolution Precrafted,1.0,Philippines,Manila,Other,2017
+InVision,1.9,United States,New York,Internet software & services,2017
+Niantic,9.0,United States,San Francisco,Mobile & telecommunications,2017
+Eat Just,1.1,United States,San Francisco,Consumer & retail,2017
+HeartFlow,1.3,United States,Redwood City,Health,2017
+JUUL Labs,12.0,United States,San Francisco,Consumer & retail,2017
+Canva,40.0,Australia,Surry Hills,Internet software & services,2018
+Cabify,1.4,Spain,Madrid,Auto & transportation,2018
+Upgrade,3.33,United States,San Francisco,Fintech,2018
+Harry's Razor Company,1.7,United States,New York,Consumer & retail,2018
+OrCam Technologies,1.03,Israel,Jerusalem,Artificial intelligence,2018
+NuCom Group,2.2,Germany,Unterfoehring,Other,2018
+Nubank,30.0,Brazil,Sao Paulo,Fintech,2018
+Tempus,8.1,United States,Chicago,Health,2018
+Samsara Networks,6.3,United States,San Francisco,Hardware,2018
+Intercom,1.28,United States,San Francisco,Internet software & services,2018
+Discord,7.0,United States,San Francisco,Internet software & services,2018
+Flexport,3.2,United States,San Francisco,"Supply chain, logistics, & delivery",2018
+SoundHound,2.1,United States,Santa Clara,Artificial intelligence,2018
+ThoughtSpot,4.2,United States,Sunnyvale,Internet software & services,2018
+Circle,3.0,United States,Boston,Fintech,2018
+Preferred Networks,2.0,Japan,Tokyo,Artificial intelligence,2018
+HMD Global,1.0,Finland,Espoo,Mobile & telecommunications,2018
+Tradeshift,2.7,United States,San Francisco,Fintech,2018
+Dataminr,4.1,United States,New York,Artificial intelligence,2018
+OutSystems,9.5,United States,Boston,Internet software & services,2018
+Cohesity,3.7,United States,San Jose,Data management & analytics,2018
+Swiggy,5.5,India,Bengaluru,"Supply chain, logistics, & delivery",2018
+Celonis,11.0,Germany,Munich,Data management & analytics,2018
+Automation Anywhere,6.8,United States,San Jose,Artificial intelligence,2018
+Starry,1.29,United States,Boston,Mobile & telecommunications,2018
+MediaMath,1.0,United States,New York,Internet software & services,2018
+Pony.ai,5.3,United States,Fremont,Artificial intelligence,2018
+Movile,1.0,Brazil,Sao Paulo,Mobile & telecommunications,2018
+Pat McGrath Labs,1.0,United States,New York,Consumer & retail,2018
+Formlabs,2.0,United States,Somerville,Hardware,2018
+Deezer,1.4,France,Paris,Internet software & services,2018
+Biosplice Therapeutics,12.0,United States,San Diego,Health,2018
+Rappi,5.25,Colombia,Bogota,"Supply chain, logistics, & delivery",2018
+Udaan,3.1,India,Bengaluru,"Supply chain, logistics, & delivery",2018
+Branch,1.0,United States,Redwood City,Mobile & telecommunications,2018
+Convoy,2.75,United States,Seattle,"Supply chain, logistics, & delivery",2018
+OYO Rooms,9.6,India,Gurugram,Travel,2018
+Talkdesk,10.0,United States,San Francisco,Internet software & services,2018
+Brex,12.3,United States,San Francisco,Fintech,2018
+Tresata,1.0,United States,Charlotte,Fintech,2018
+Allbirds,1.7,United States,San Francisco,E-commerce & direct-to-consumer,2018
+Devoted Health,12.6,United States,Waltham,Health,2018
+PAX,1.7,United States,San Francisco,Consumer & retail,2018
+Omio,1.0,Germany,Berlin,Travel,2018
+Epic Games,28.7,United States,Cary,Other,2018
+HashiCorp,5.1,United States,San Francisco,Internet software & services,2018
+Zume,2.25,United States,Mountain View,Consumer & retail,2018
+BitFury,1.0,Netherlands,Amsterdam,Hardware,2018
+TripActions,7.25,United States,Palo Alto,Travel,2018
+iFood,1.0,Brazil,Osasco,"Supply chain, logistics, & delivery",2018
+Netskope,7.5,United States,Santa Clara,Cybersecurity,2018
+ServiceTitan,9.5,United States,Glendale,Internet software & services,2018
+Cerebras Systems,4.0,United States,Los Altos,Hardware,2018
+Airtable,5.77,United States,San Francisco,Internet software & services,2018
+REEF Technology,1.0,United States,Miami,"Supply chain, logistics, & delivery",2018
+Plaid Technologies,13.4,United States,San Francisco,Fintech,2018
+Seismic,3.0,United States,San Diego,Internet software & services,2018
+Cambridge Mobile Telematics,1.5,United States,Cambridge,Mobile & telecommunications,2018
+Fair,1.2,United States,Santa Monica,Auto & transportation,2018
+N26,9.23,Germany,Berlin,Fintech,2019
+Globality,1.0,United States,Menlo Park,Artificial intelligence,2019
+Collibra,5.25,Belgium,Brussels,Data management & analytics,2019
+Databricks,38.0,United States,San Francisco,Data management & analytics,2019
+Calm,2.0,United States,San Francisco,Consumer & retail,2019
+Nuro,8.6,United States,Mountain View,Auto & transportation,2019
+Ynsect,1.0,France,Evry,Other,2019
+Delhivery,3.0,India,Gurgaon,"Supply chain, logistics, & delivery",2019
+wefox,1.65,Germany,Berlin,Fintech,2019
+Chime,25.0,United States,San Francisco,Fintech,2019
+Ovo,2.9,Indonesia,Jakarta,Fintech,2019
+Doctolib,1.14,France,Paris,Health,2019
+Glossier,1.2,United States,New York,Consumer & retail,2019
+Airwallex,5.5,Australia,Melbourne,Fintech,2019
+Kaseya,2.0,United States,Miami,Cybersecurity,2019
+ezCater,1.25,United States,Boston,"Supply chain, logistics, & delivery",2019
+Liquid,1.0,Japan,Tokyo,Fintech,2019
+Dream11,8.0,India,Mumbai,Internet software & services,2019
+Outreach,4.4,United States,Seattle,Internet software & services,2019
+Sila Nanotechnologies,3.3,United States,Alameda,Other,2019
+KeepTruckin,2.3,United States,San Francisco,"Supply chain, logistics, & delivery",2019
+PolicyBazaar,2.4,India,Gurgaon,Fintech,2019
+Carta,7.4,United States,San Francisco,Fintech,2019
+VTS,1.0,United States,New York,Internet software & services,2019
+Impossible Foods,4.0,United States,Redwood City,Consumer & retail,2019
+Away,1.4,United States,New York,E-commerce & direct-to-consumer,2019
+GetYourGuide,1.1,Germany,Berlin,Travel,2019
+Zipline,2.8,United States,South San Francisco,"Supply chain, logistics, & delivery",2019
+Ivalua,1.1,United States,Redwood City,Fintech,2019
+Loggi,2.0,Brazil,Sao Paulo,"Supply chain, logistics, & delivery",2019
+Northvolt,9.08,Sweden,Stockholm,Other,2019
+Gympass,2.2,United States,New York,Internet software & services,2019
+Collective Health,1.5,United States,San Francisco,Fintech,2019
+Meero,1.0,France,Paris,Artificial intelligence,2019
+Druva,2.0,United States,Sunnyvale,Data management & analytics,2019
+Kraken,2.92,United States,San Francisco,Fintech,2019
+StockX,3.8,United States,Detroit,E-commerce & direct-to-consumer,2019
+Ola Electric Mobility,3.0,India,Bengaluru,Auto & transportation,2019
+Rivigo,1.07,India,Gurgaon,"Supply chain, logistics, & delivery",2019
+OneTrust,5.1,United States,Atlanta,Internet software & services,2019
+Sonder,1.3,United States,San Francisco,Travel,2019
+Argo AI,7.25,United States,Pittsburgh,Artificial intelligence,2019
+Icertis,2.8,United States,Bellevue,Artificial intelligence,2019
+FlixMobility,3.0,Germany,Munich,Auto & transportation,2019
+Radiology Partners,4.0,United States,El Segundo,Health,2019
+Trax,1.3,Singapore,,Artificial intelligence,2019
+OpenAI,2.92,United States,San Francisco,Artificial intelligence,2019
+DataRobot,6.3,United States,Boston,Artificial intelligence,2019
+Lightricks,1.8,Israel,Jerusalem,Artificial intelligence,2019
+SmartNews,2.0,Japan,Tokyo,Mobile & telecommunications,2019
+Scale AI,7.3,United States,San Francisco,Artificial intelligence,2019
+Cybereason,2.44,United States,Boston,Cybersecurity,2019
+Ibotta,1.0,United States,Denver,Fintech,2019
+C2FO,1.0,United States,Leawood,Fintech,2019
+Numbrs,1.0,Switzerland,Zurich,Fintech,2019
+Grove Collaborative,1.32,United States,San Francisco,E-commerce & direct-to-consumer,2019
+QuintoAndar,5.1,Brazil,Campinas,E-commerce & direct-to-consumer,2019
+Anduril,4.6,United States,Irvine,Artificial intelligence,2019
+Acronis,2.5,Switzerland,Schaffhausen,Cybersecurity,2019
+Checkr,4.6,United States,San Francisco,Internet software & services,2019
+Workrise,2.9,United States,Austin,Internet software & services,2019
+Dave,1.0,United States,Los Angeles,Fintech,2019
+Next Insurance,4.0,United States,Palo Alto,Fintech,2019
+Grammarly,13.0,United States,San Francisco,Internet software & services,2019
+EBANX,1.0,Brazil,Curitiba,Fintech,2019
+Pendo,2.6,United States,Raleigh,Internet software & services,2019
+Instabase,1.05,United States,San Francisco,Data management & analytics,2019
+Scopely,3.3,United States,Culver City,Mobile & telecommunications,2019
+Faire,12.4,United States,San Francisco,Artificial intelligence,2019
+Guild Education,3.75,United States,Denver,Internet software & services,2019
+You & Mr Jones,1.3,United States,New York,Other,2019
+Vinted,4.53,Lithuania,Vilnius,E-commerce & direct-to-consumer,2019
+Dataiku,4.6,United States,New York,Internet software & services,2019
+Wildlife Studios,3.0,Brazil,Sao Paulo,Other,2019
+Glovo,1.0,Spain,Barcelona,"Supply chain, logistics, & delivery",2019
+Lenskart,2.5,India,Faridabad,E-commerce & direct-to-consumer,2019
+Ripple,10.0,United States,San Francisco,Fintech,2019
+Loft,2.9,Brazil,Sao Paulo,E-commerce & direct-to-consumer,2020
+HighRadius,3.1,United States,Houston,Fintech,2020
+Sisense,1.1,United States,New York,Data management & analytics,2020
+AppsFlyer,2.0,United States,San Francisco,Mobile & telecommunications,2020
+Pine Labs,3.0,India,Noida,Fintech,2020
+Moon Active,5.0,Israel,Tel Aviv,Mobile & telecommunications,2020
+Justworks,1.43,United States,New York,Internet software & services,2020
+Verkada,1.6,United States,San Mateo,Cybersecurity,2020
+Alto Pharmacy,1.0,United States,San Francisco,Health,2020
+FirstCry,2.1,India,Pune,E-commerce & direct-to-consumer,2020
+Skydance Media,2.3,United States,Santa Monica,Other,2020
+Course Hero,1.1,United States,Redwood City,Edtech,2020
+InSightec,1.3,Israel,Tirat Carmel,Health,2020
+Hotmart,1.0,Netherlands,Amsterdam,E-commerce & direct-to-consumer,2020
+Via,3.3,United States,New York,Auto & transportation,2020
+Notion Labs,10.0,United States,San Francisco,Internet software & services,2020
+Podium,3.0,United States,Lehi,Internet software & services,2020
+VAST Data,3.7,United States,New York,Data management & analytics,2020
+Emerging Markets Property Group,1.0,United Arab Emirates,Dubai,Other,2020
+o9 Solutions,1.0,United States,Dallas,Artificial intelligence,2020
+Figma,10.0,United States,San Francisco,Internet software & services,2020
+ApplyBoard,3.0,Canada,Kitchener,Edtech,2020
+Quizlet,1.0,United States,San Francisco,Edtech,2020
+Komodo Health,3.3,United States,San Francisco,Health,2020
+HyalRoute,3.5,Singapore,,Mobile & telecommunications,2020
+Apeel Sciences,2.0,United States,Goleta,Other,2020
+Postman,5.6,United States,San Francisco,Internet software & services,2020
+Pagaya,2.0,Israel,Tel Aviv,Fintech,2020
+Orca Bio,1.0,United States,Menlo Park,Health,2020
+Workhuman,1.2,Ireland,Dublin,Internet software & services,2020
+FiveTran,5.6,United States,Oakland,Data management & analytics,2020
+National Stock Exchange of India,6.5,India,Mumbai,Fintech,2020
+Thrasio,10.0,United States,Walpole,Other,2020
+Trumid,2.4,United States,New York,Fintech,2020
+Qumulo,1.2,United States,Seattle,Data management & analytics,2020
+Ro,5.0,United States,New York,Health,2020
+Infobip,1.0,Croatia,Vodnjan,Mobile & telecommunications,2020
+Farmers Business Network,4.0,United States,San Carlos,Other,2020
+Rippling,6.5,United States,San Francisco,Internet software & services,2020
+Gong,7.25,United States,Palo Alto,Artificial intelligence,2020
+Voodoo,2.31,France,Paris,Other,2020
+Lyra Health,4.6,United States,Burlingame,Health,2020
+Redis Labs,2.0,United States,Mountain View,Data management & analytics,2020
+Unacademy,3.44,India,Bengaluru,Edtech,2020
+Patreon,4.0,United States,San Francisco,Internet software & services,2020
+Mollie,6.5,Netherlands,Amsterdam,Fintech,2020
+Zwift,1.0,United States,Long Beach,E-commerce & direct-to-consumer,2020
+Playco,1.0,Japan,Tokyo,Other,2020
+Mirakl,3.5,France,Paris,E-commerce & direct-to-consumer,2020
+Attentive,5.99,United States,Hoboken,Mobile & telecommunications,2020
+GOAT,3.7,United States,Culver City,E-commerce & direct-to-consumer,2020
+Greenlight,2.3,United States,Atlanta,Fintech,2020
+Alzheon,1.31,United States,Framingham,Health,2020
+Kavak,8.7,Mexico,Lerma de Villada,E-commerce & direct-to-consumer,2020
+Tipalti,8.3,United States,San Mateo,Fintech,2020
+Unqork,2.0,United States,New York,Fintech,2020
+Dialpad,1.2,United States,San Francisco,Internet software & services,2020
+MessageBird,3.8,Netherlands,Amsterdam,Mobile & telecommunications,2020
+goPuff,15.0,United States,Philadelphia,E-commerce & direct-to-consumer,2020
+Razorpay,3.0,India,Bengaluru,Fintech,2020
+Proterra,1.05,United States,Burlingame,"Supply chain, logistics, & delivery",2020
+Tekion,3.5,United States,San Ramon,Internet software & services,2020
+Arctic Wolf Networks,4.3,United States,Eden Prairie,Cybersecurity,2020
+Applied Intuition,3.6,United States,Sunnyvale,Data management & analytics,2020
+Eightfold.ai,2.1,United States,Santa Clara,Internet software & services,2020
+Whoop,3.6,United States,Boston,E-commerce & direct-to-consumer,2020
+Better.com,6.0,United States,New York,Fintech,2020
+Pharmapacks,1.1,United States,Islandia,E-commerce & direct-to-consumer,2020
+Strava,1.5,United States,San Francisco,Internet software & services,2020
+Cato Networks,2.5,Israel,Tel Aviv,Cybersecurity,2020
+Klaviyo,9.2,United States,Boston,Internet software & services,2020
+Forter,3.0,United States,New York,Cybersecurity,2020
+Relativity Space,4.2,United States,Inglewood,Other,2020
+Chainalysis,4.2,United States,New York,Fintech,2020
+Cars24,1.84,India,Gurgaon,E-commerce & direct-to-consumer,2020
+Olive,4.0,United States,Columbus,Internet software & services,2020
+C6 Bank,5.05,Brazil,Sao Paulo,Fintech,2020
+Virta Health,2.0,United States,San Francisco,Health,2020
+Everly Health,1.3,United States,Austin,E-commerce & direct-to-consumer,2020
+Cityblock Health,5.7,United States,Brooklyn,Health,2020
+Venafi,1.15,United States,Salt Lake City,Cybersecurity,2020
+ClickUp,4.0,United States,San Diego,Internet software & services,2020
+Zenoti,1.5,United States,Bellevue,Internet software & services,2020
+BigID,1.25,United States,New York,Cybersecurity,2020
+Boom Supersonic,1.0,United States,Englewood,Other,2020
+ISN,2.0,United States,Dallas,"Supply chain, logistics, & delivery",2020
+Creditas,1.75,Brazil,Sao Paulo,Fintech,2020
+Qualia,1.0,United States,San Francisco,Fintech,2020
+DailyHunt,1.0,India,Bengaluru,Internet software & services,2020
+Kong,1.4,United States,San Francisco,Internet software & services,2020
+Color,4.6,United States,Burlingame,Health,2021
+Mambu,2.08,Germany,Berlin,Fintech,2021
+Hinge Health,6.2,United States,San Francisco,Health,2021
+Starburst,1.2,United States,Boston,Data management & analytics,2021
+SalesLoft,1.1,United States,Atlanta,Internet software & services,2021
+Dremio,1.0,United States,Santa Clara,Data management & analytics,2021
+MadeiraMadeira,1.0,Brazil,Parana,E-commerce & direct-to-consumer,2021
+PointClickCare,4.0,Canada,Mississauga,Internet software & services,2021
+Lacework,8.3,United States,San Jose,Cybersecurity,2021
+Quantum Metric,1.0,United States,Colorado Springs,Data management & analytics,2021
+News Break,1.0,United States,Mountain View,Internet software & services,2021
+EQRx,1.23,United States,Cambridge,Health,2021
+Workato,5.7,United States,Mountain View,Internet software & services,2021
+Cockroach Labs,2.16,United States,New York,Data management & analytics,2021
+Webflow,2.1,United States,San Francisco,Internet software & services,2021
+MX Technologies,1.9,United States,Lehi,Fintech,2021
+Sennder,1.1,Germany,Berlin,"Supply chain, logistics, & delivery",2021
+Zapier,4.0,United States,Sunnyvale,Internet software & services,2021
+Harness,1.7,United States,San Francisco,Artificial intelligence,2021
+Digit Insurance,3.5,India,Bengaluru,Fintech,2021
+Personio,6.3,Germany,Munich,Internet software & services,2021
+Aledade,1.9,United States,Bethesda,Health,2021
+K Health,1.5,United States,New York,Health,2021
+Clubhouse,4.0,United States,San Francisco,Mobile & telecommunications,2021
+Melio,4.0,Israel,Tel Aviv,Fintech,2021
+Calendly,3.0,United States,Atlanta,Internet software & services,2021
+Sidecar Health,1.0,United States,El Segundo,Fintech,2021
+DriveNets,1.0,Israel,Ra'anana,Internet software & services,2021
+Splashtop,1.0,United States,San Jose,Internet software & services,2021
+OwnBackup,3.35,United States,Englewood Cliffs,Data management & analytics,2021
+Flash Express,1.0,Thailand,Bangkok,"Supply chain, logistics, & delivery",2021
+Stash,1.4,United States,New York,Fintech,2021
+Tealium,1.2,United States,San Diego,Internet software & services,2021
+Nexthink,1.1,Switzerland,Prilly,Data management & analytics,2021
+Modern Health,1.17,United States,San Francisco,Health,2021
+Axiom Space,1.0,United States,Houston,Other,2021
+Public,1.2,United States,New York,Fintech,2021
+Locus Robotics,1.0,United States,Wilmington,Hardware,2021
+Standard Cognition,1.0,United States,San Francisco,Artificial intelligence,2021
+Sentry,1.0,United States,San Francisco,Other,2021
+Innovaccer,1.3,United States,San Francisco,Health,2021
+Earnix,2.0,Israel,Giv'atayim,Fintech,2021
+Highspot,2.3,United States,Seattle,Internet software & services,2021
+Plume,2.6,United States,Palo Alto,Internet software & services,2021
+Infra.Market,2.5,India,Thane,E-commerce & direct-to-consumer,2021
+BetterUp,4.7,United States,San Francisco,Internet software & services,2021
+Skydio,1.0,United States,Redwood City,"Supply chain, logistics, & delivery",2021
+Newsela,1.0,United States,New York,Internet software & services,2021
+Vestiaire Collective,1.7,France,Paris,E-commerce & direct-to-consumer,2021
+Axonius,1.2,United States,New York,Cybersecurity,2021
+DispatchHealth,1.7,United States,Denver,Health,2021
+Clari,1.6,United States,Sunnyvale,Internet software & services,2021
+Uplight,1.5,United States,Boulder,Other,2021
+Papaya Global,3.7,United States,New York,Internet software & services,2021
+Cedar,3.2,United States,New York,Fintech,2021
+Flutterwave,1.0,United States,San Francisco,Fintech,2021
+Aqua Security,1.0,Israel,Ramat Gan,Cybersecurity,2021
+Epidemic Sound,1.4,Sweden,Stockholm,Internet software & services,2021
+BlockFi,3.0,United States,Jersey City,Fintech,2021
+BitPanda,4.11,Austria,Vienna,Fintech,2021
+PatSnap,1.0,Singapore,,Internet software & services,2021
+Socure,4.5,United States,New York,Cybersecurity,2021
+Dutchie,3.75,United States,Bend,E-commerce & direct-to-consumer,2021
+Coalition,3.5,United States,San Francisco,Cybersecurity,2021
+Weee!,2.8,United States,Fremont,"Supply chain, logistics, & delivery",2021
+Savage X Fenty,1.2,United States,El Segundo,E-commerce & direct-to-consumer,2021
+Wiz,6.0,Israel,Tel Aviv,Cybersecurity,2021
+Unite Us,1.7,United States,New York,Health,2021
+Relativity,3.6,United States,Chicago,Internet software & services,2021
+Yotpo,1.4,United States,New York,Internet software & services,2021
+ID.me,1.5,United States,McLean,Cybersecurity,2021
+Side,2.5,United States,San Francisco,Internet software & services,2021
+Evidation,1.0,United States,San Mateo,Health,2021
+Orca Security,1.8,Israel,Tel Aviv-Yafo,Cybersecurity,2021
+Rec Room,1.25,United States,Seattle,Internet software & services,2021
+Lattice,1.0,United States,San Francisco,Internet software & services,2021
+Hopper,3.0,Canada,Montreal,Travel,2021
+Pacaso,1.5,United States,Cincinnati,Fintech,2021
+Feedzai,1.0,United States,San Mateo,Artificial intelligence,2021
+Gorillas,3.1,Germany,Berlin,E-commerce & direct-to-consumer,2021
+ABL Space Systems,2.4,United States,El Segundo,Other,2021
+Five Star Business Finance,1.4,India,Chennai,Other,2021
+Pilot.com,1.2,United States,San Francisco,Fintech,2021
+Ramp Financial,3.9,United States,New York,Fintech,2021
+Diamond Foundry,1.8,United States,San Francisco,Other,2021
+Dapper Labs,7.6,Canada,Vancouver,Fintech,2021
+6Sense,2.1,United States,San Francisco,Artificial intelligence,2021
+Rightway,1.1,United States,New York,Health,2021
+Cameo,1.0,United States,Chicago,Internet software & services,2021
+Tonal,1.6,United States,San Francisco,E-commerce & direct-to-consumer,2021
+Fetch Rewards,1.0,United States,Madison,E-commerce & direct-to-consumer,2021
+Meesho,4.9,India,Bengaluru,Internet software & services,2021
+CRED,4.01,India,Bengaluru,Fintech,2021
+Sendbird,1.05,United States,San Mateo,Mobile & telecommunications,2021
+Groww,3.0,India,Bengaluru,Fintech,2021
+J&T Express,20.0,Indonesia,Jakarta,"Supply chain, logistics, & delivery",2021
+Phenom People,1.4,United States,Ambler,Internet software & services,2021
+ShareChat,3.0,India,Bengaluru,Internet software & services,2021
+GupShup,1.4,United States,San Francisco,Internet software & services,2021
+Skims,1.6,United States,Los Angeles,E-commerce & direct-to-consumer,2021
+The Zebra,1.0,United States,Austin,E-commerce & direct-to-consumer,2021
+SambaNova Systems,5.0,United States,Palo Alto,Data management & analytics,2021
+Degreed,1.4,United States,Pleasanton,Edtech,2021
+Clearcover,1.0,United States,Chicago,Fintech,2021
+Benchling,6.1,United States,San Francisco,Internet software & services,2021
+Outschool,3.0,United States,San Francisco,Edtech,2021
+Astranis Space Technologies,1.4,United States,San Francisco,Mobile & telecommunications,2021
+Groq,1.0,United States,Mountain View,Artificial intelligence,2021
+Signifyd,1.34,United States,San Jose,Fintech,2021
+Alan,1.68,France,Paris,Fintech,2021
+Clearco,2.0,Canada,Toronto,Fintech,2021
+ChargeBee Technologies,1.4,United States,Walnut,Fintech,2021
+Injective Protocol,1.0,United States,New York,Fintech,2021
+Deel,5.5,United States,San Francisco,Fintech,2021
+ActiveCampaign,3.0,United States,Chicago,Internet software & services,2021
+Hive,2.0,United States,San Francisco,Artificial intelligence,2021
+Misfits Market,2.0,United States,Pennsauken,E-commerce & direct-to-consumer,2021
+Sift,1.0,United States,San Francisco,Artificial intelligence,2021
+Clio,1.6,Canada,Burnaby,Internet software & services,2021
+Urban Company,2.1,India,Gurgaon,E-commerce & direct-to-consumer,2021
+KRY,2.0,Sweden,Stockholm,Health,2021
+Current,2.2,United States,New York,Fintech,2021
+Cava Group,1.3,United States,Washington,Other,2021
+Sysdig,1.19,United States,San Francisco,Cybersecurity,2021
+Capsule,1.0,United States,New York,Health,2021
+Paxos,2.4,United States,New York,Fintech,2021
+MOLOCO,1.5,United States,Redwood City,Artificial intelligence,2021
+Vectra Networks,1.2,United States,San Jose,Artificial intelligence,2021
+Mux,1.0,United States,San Francisco,Internet software & services,2021
+SafetyCulture,1.6,Australia,Sydney,Internet software & services,2021
+Kajabi,2.0,United States,Irvine,Internet software & services,2021
+HoneyBook,1.1,United States,San Francisco,Internet software & services,2021
+Firefly Aerospace,1.0,United States,Cedar Park,Other,2021
+TensTorrent,1.0,Canada,Toronto,Artificial intelligence,2021
+Shift Technology,1.0,France,Paris,Artificial intelligence,2021
+Bitso,2.2,Mexico,Mexico City,Fintech,2021
+ReCharge,2.1,United States,Los Angeles,Fintech,2021
+Ada Support,1.2,Canada,Toronto,Artificial intelligence,2021
+Ethos Technologies,2.7,United States,San Francisco,Fintech,2021
+CircleCI,1.7,United States,San Francisco,Internet software & services,2021
+Trader Interactive,1.63,United States,Norfolk,Other,2021
+Handshake,1.5,United States,San Francisco,Internet software & services,2021
+Inari,1.2,United States,Cambridge,Other,2021
+Forte Labs,1.0,United States,San Francisco,Fintech,2021
+MasterClass,2.75,United States,San Francisco,Edtech,2021
+Axtria,1.0,United States,Berkeley Heights,Data management & analytics,2021
+Moglix,1.0,Singapore,,E-commerce & direct-to-consumer,2021
+Caris Life Sciences,7.83,United States,Irving,Health,2021
+Amount,1.0,United States,Chicago,Fintech,2021
+Back Market,3.2,France,Paris,E-commerce & direct-to-consumer,2021
+Extend,1.6,United States,San Francisco,Fintech,2021
+DailyPay,1.2,United States,New York,Fintech,2021
+Vise,1.0,United States,New York,Fintech,2021
+Cognite,1.6,Norway,Lysaker,Data management & analytics,2021
+Pipe,2.0,United States,Miami,Fintech,2021
+ASAPP,1.6,United States,New York,Artificial intelligence,2021
+Trade Republic,5.3,Germany,Berlin,Fintech,2021
+Black Unicorn Factory,6.1,United States,Los Angeles,Other,2021
+Loom,1.53,United States,San Francisco,Internet software & services,2021
+Sunbit,1.1,United States,Los Angeles,Fintech,2021
+Noom,3.7,United States,New York,Health,2021
+Zeta,1.45,United States,San Francisco,Fintech,2021
+Printful,1.0,United States,Charlotte,Other,2021
+ContentSquare,2.8,France,Paris,Internet software & services,2021
+Bowery Farming,2.3,United States,New York,Other,2021
+Snapdocs,1.5,United States,San Francisco,Fintech,2021
+SpotOn,3.15,United States,San Francisco,Fintech,2021
+Matrixport,1.0,Singapore,,Fintech,2021
+Exabeam,2.4,United States,Foster City,Cybersecurity,2021
+Chipper Cash,2.0,United States,San Francisco,Fintech,2021
+Project44,1.2,United States,Chicago,"Supply chain, logistics, & delivery",2021
+Oda,1.2,Norway,Oslo,E-commerce & direct-to-consumer,2021
+Shippo,1.0,United States,San Francisco,"Supply chain, logistics, & delivery",2021
+Thirty Madison,1.0,United States,New York,Health,2021
+Alation,1.2,United States,Redwood City,Internet software & services,2021
+Trulioo,1.75,Canada,Vancouver,Cybersecurity,2021
+LetsGetChecked,1.0,Ireland,Dublin,Health,2021
+SSENSE,4.15,Canada,Montreal,E-commerce & direct-to-consumer,2021
+Scalable Capital,1.4,Germany,Munich,Fintech,2021
+VerbIT,2.0,Israel,Tel Aviv,Artificial intelligence,2021
+SmartHR,1.6,Japan,Tokyo,Fintech,2021
+Morning Consult,1.0,United States,Washington DC,Internet software & services,2021
+Aura,2.5,United States,Burlington,Cybersecurity,2021
+Ledger,1.5,France,Paris,Hardware,2021
+Clip,2.0,Mexico,Mexico City,Fintech,2021
+Cerebral,4.8,United States,San Francisco,Health,2021
+Next Silicon,1.5,Israel,Tel Aviv,Hardware,2021
+Carro,1.0,Singapore,,E-commerce & direct-to-consumer,2021
+Addepar,2.17,United States,Mountain View,Fintech,2021
+Iterable,2.0,United States,San Francisco,Internet software & services,2021
+IRL,1.17,United States,San Francisco,Internet software & services,2021
+BrowserStack,4.0,Ireland,Dublin,Internet software & services,2021
+Bringg,1.0,Israel,Tel Aviv,"Supply chain, logistics, & delivery",2021
+Guideline,1.15,United States,San Mateo,Fintech,2021
+Neo4j,2.15,United States,San Mateo,Data management & analytics,2021
+Claroty,1.0,United States,New York,Cybersecurity,2021
+Bunq,2.0,Netherlands,Amsterdam,Fintech,2021
+Forto,1.2,Germany,Berlin,"Supply chain, logistics, & delivery",2021
+JoyTunes,1.0,Israel,Tel Aviv,Edtech,2021
+GoStudent,1.7,Austria,Vienna,Edtech,2021
+Transmit Security,2.74,Israel,Tel Aviv,Cybersecurity,2021
+G2,1.1,United States,Chicago,Internet software & services,2021
+Hailo,1.0,Israel,Tel Aviv,Artificial intelligence,2021
+Vercel,2.5,United States,San Francisco,Internet software & services,2021
+Aircall,1.0,United States,New York,Internet software & services,2021
+SmartAsset,1.0,United States,New York,Fintech,2021
+Visier,1.0,Canada,Vancouver,Internet software & services,2021
+Lucid Software,3.0,United States,South Jordan,Internet software & services,2021
+ShipBob,1.0,United States,Chicago,"Supply chain, logistics, & delivery",2021
+Grofers,1.01,India,Gurgaon,"Supply chain, logistics, & delivery",2021
+Moveworks,2.1,United States,Mountain View,Artificial intelligence,2021
+dbt Labs,1.5,United States,Philadelphia,Data management & analytics,2021
+bolttech,1.0,Singapore,,Fintech,2021
+Kitopi,1.0,United Arab Emirates,Dubai,"Supply chain, logistics, & delivery",2021
+Articulate,3.75,United States,New York,Edtech,2021
+Mercury,1.6,United States,San Francisco,Fintech,2021
+ManoMano,2.6,France,Paris,E-commerce & direct-to-consumer,2021
+Pleo,1.7,Denmark,Copenhagen,Fintech,2021
+MobileCoin,1.0,United States,San Francisco,Fintech,2021
+1Password,2.0,Canada,Toronto,Cybersecurity,2021
+Coda,1.4,United States,Mountain View,Internet software & services,2021
+Lunar,1.0,Denmark,Aarhus,Fintech,2021
+Carsome,1.3,Malaysia,Selangor,E-commerce & direct-to-consumer,2021
+solarisBank,1.65,Germany,Berlin,Fintech,2021
+NIUM,1.0,Singapore,,Fintech,2021
+Sourcegraph,2.62,United States,San Francisco,Internet software & services,2021
+Impact,1.5,United States,Santa Barbara,Internet software & services,2021
+Prime Medicine,1.2,United States,Cambridge,Health,2021
+Amperity,1.0,United States,Seattle,Artificial intelligence,2021
+Remote,1.0,United States,San Francisco,Fintech,2021
+Pantheon Systems,1.0,United States,San Francisco,Internet software & services,2021
+M1 Finance,1.45,United States,Chicago,Fintech,2021
+Carson Group,1.0,United States,Lincoln,Fintech,2021
+GO1,1.0,Australia,Brisbane,Internet software & services,2021
+MURAL,2.0,United States,San Francisco,Internet software & services,2021
+OpenSea,1.5,United States,New York,E-commerce & direct-to-consumer,2021
+SmartRecruiters,1.5,United States,San Francisco,Internet software & services,2021
+Carbon Health,3.0,United States,San Francisco,Health,2021
+FloQast,1.2,United States,Los Angeles,Fintech,2021
+BlackBuck,1.0,India,Bengaluru,"Supply chain, logistics, & delivery",2021
+Interos,1.0,United States,Arlington,Fintech,2021
+NotCo,1.5,Chile,Santiago,Artificial Intelligence,2021
+Fireblocks,8.0,United States,New York,Fintech,2021
+iCapital Network,4.0,United States,New York,Fintech,2021
+PsiQuantum,3.15,United States,Palo Alto,Hardware,2021
+At-Bay,1.35,United States,Mountain View,Fintech,2021
+Contentful,3.0,Germany,Berlin,Internet software & services,2021
+Redwood Materials,3.7,United States,Carson City,Other,2021
+LaunchDarkly,3.0,United States,Oakland,Internet software & services,2021
+Algolia,2.25,United States,San Francisco,Internet software & services,2021
+SonderMind,1.42,United States,Denver,Health,2021
+Culture Amp,1.5,Australia,Richmond,Internet software & services,2021
+Odoo,2.3,Belgium,Louvain-la-Neuve,Internet software & services,2021
+BharatPe,2.85,India,New Delhi,Fintech,2021
+OfBusiness,3.0,India,Gurgaon,E-commerce & direct-to-consumer,2021
+Unico,1.0,Brazil,Sao Paulo,Artificial intelligence,2021
+MindTickle,1.2,United States,San Francisco,Internet software & services,2021
+FullStory,1.8,United States,Atlanta,Internet software & services,2021
+TaxBit,1.5,United States,Draper,Fintech,2021
+Human Interest,1.0,United States,San Francisco,Fintech,2021
+Bluecore,1.0,United States,New York,Artificial intelligence,2021
+UpGrad,1.2,India,Mumbai,Edtech,2021
+Snorkel AI,1.0,United States,Palo Alto,Artificial intelligence,2021
+Freshbooks,1.0,Canada,Toronto,Fintech,2021
+CoinDCX,1.1,India,Maharashtra,Fintech,2021
+FalconX,3.75,United States,San Mateo,Fintech,2021
+Reify Health,2.2,United States,Boston,Health,2021
+People.ai,1.1,United States,San Francisco,Internet software & services,2021
+Eruditus Executive Education,3.2,India,Mumbai,Edtech,2021
+Uala,2.45,Argentina,Buenos Aires,Fintech,2021
+Divvy Homes,2.0,United States,San Francisco,Fintech,2021
+Gelato,1.0,Norway,Oslo,E-commerce & direct-to-consumer,2021
+DistroKid,1.3,United States,New York,Internet software & services,2021
+Nuvemshop,3.1,Brazil,Sao Paulo,E-commerce & direct-to-consumer,2021
+Maven Clinic,1.0,United States,New York,Health,2021
+Zetwerk,1.33,India,Bengaluru,Internet software & services,2021
+DriveWealth,2.85,United States,Chatham,Fintech,2021
+Blockstream,3.2,Canada,Vancouver,Fintech,2021
+Grafana Labs,3.0,United States,New York,Internet software & services,2021
+Shield AI,1.0,United States,San Diego,Artificial intelligence,2021
+PicsArt,1.0,United States,San Francisco,Mobile & telecommunications,2021
+Offchain Labs,1.2,United States,Princeton,Internet software & services,2021
+Berlin Brands Group,1.0,Germany,Berlin,E-commerce & direct-to-consumer,2021
+HomeLight,1.6,United States,San Francisco,Fintech,2021
+1,2.15,Brazil,Sao Paulo,Fintech,2021
+Nexii,1.23,Canada,Vancouver,Other,2021
+Spiber,1.22,Japan,Tsuruoka,Other,2021
+Agile Robots,1.0,Germany,Munich,Hardware,2021
+Varo Bank,2.5,United States,San Francisco,Fintech,2021
+Mammoth Biosciences,1.0,United States,Brisbane,Health,2021
+Orchard,1.0,United States,New York,Fintech,2021
+Copado,1.2,Spain,Madrid,Data management & analytics,2021
+Commure,3.5,United States,San Francisco,Internet software & services,2021
+JumpCloud,2.62,United States,Louisville,Data management & analytics,2021
+BitSight Technologies,2.4,United States,Boston,Cybersecurity,2021
+STORD,1.13,United States,Atlanta,"Supply chain, logistics, & delivery",2021
+Xendit,1.0,Indonesia,Jakarta,Fintech,2021
+Nextiva,2.7,United States,Scottsdale,Internet software & services,2021
+1047 Games,1.5,United States,Zephyr Cove,Internet software & services,2021
+GrubMarket,1.2,United States,San Francisco,E-commerce & direct-to-consumer,2021
+Mobile Premier League,2.45,India,Bengaluru,Internet software & services,2021
+apna,1.1,India,Bengaluru,Internet software & services,2021
+Carousell,1.1,Singapore,,E-commerce & direct-to-consumer,2021
+CFGI,1.85,United States,Boston,Fintech,2021
+Persona,1.5,United States,San Francisco,Cybersecurity,2021
+Spring Health,2.0,United States,New York,Health,2021
+Whatnot,1.5,United States,Marina del Rey,E-commerce & direct-to-consumer,2021
+Rebellion Defense,1.15,United States,Washington DC,Artificial intelligence,2021
+Sorare,4.3,France,Paris,E-commerce & direct-to-consumer,2021
+BlockDaemon,1.23,United States,Los Angeles,Fintech,2021
+Assembly,1.0,United States,Culver City,Internet software & services,2021
+PandaDoc,1.0,United States,San Francisco,Internet software & services,2021
+Advance Intelligence Group,2.0,Singapore,,Artificial intelligence,2021
+Opentrons,1.8,United States,New York,Hardware,2021
+Ninja Van,1.0,Singapore,,"Supply chain, logistics, & delivery",2021
+Ascend Money,1.5,Thailand,Bangkok,Fintech,2021
+Gem,1.2,United States,San Francisco,Internet software & services,2021
+Vedantu,1.0,India,Bengaluru,Edtech,2021
+Konfio,1.3,Mexico,Mexico City,Fintech,2021
+Andela,1.5,United States,New York,Internet software & services,2021
+Betterment,1.3,United States,New York,Fintech,2021
+Built,1.5,United States,Nashville,Internet software & services,2021
+Alloy,1.35,United States,New York,Fintech,2021
+Licious,1.0,India,Bengaluru,E-commerce & direct-to-consumer,2021
+Honor Technology,1.25,United States,San Francisco,Internet software & services,2021
+Masterworks,1.0,United States,New York,Fintech,2021
+CoinSwitch Kuber,1.9,India,Bangalore,Fintech,2021
+Pattern,2.25,United States,Lehi,Internet software & services,2021
+Modern Treasury,2.0,United States,San Francisco,Fintech,2021
+Elemy,1.15,United States,San Francisco,Health,2021
+Rebel Foods,1.4,India,Pune,E-commerce & direct-to-consumer,2021
+Chronosphere,1.0,United States,New York,Data management & analytics,2021
+Solo.io,1.0,United States,Cambridge,Internet software & services,2021
+Bolt,6.0,United States,San Francisco,Fintech,2021
+Swile,1.0,France,Montpellier,Fintech,2021
+Hibob,1.65,Israel,Tel Aviv,Internet software & services,2021
+Celsius Network,3.0,United States,Hoboken,Fintech,2021
+CarDekho,1.2,India,Jaipur,E-commerce & direct-to-consumer,2021
+GoodLeap,12.0,United States,Roseville,Internet software & services,2021
+Vuori,4.0,United States,Carlsbad,E-commerce & direct-to-consumer,2021
+Karat,1.1,United States,Seattle,Internet software & services,2021
+TradingView,3.0,United States,Westerville,Fintech,2021
+CoinList,1.5,United States,San Francisco,Fintech,2021
+Aiven,2.0,Finland,Helsinki,Internet software & services,2021
+Enpal,1.1,Germany,Berlin,Internet software & services,2021
+Acko General Insurance,1.1,India,Bengaluru,Fintech,2021
+Flock Freight,1.3,United States,Encinitas,"Supply chain, logistics, & delivery",2021
+CargoX,1.0,Brazil,Sao Paulo,"Supply chain, logistics, & delivery",2021
+Dental Monitoring,1.0,France,Paris,Health,2021
+candy.com,1.5,United States,New York,Fintech,2021
+VideoAmp,1.4,United States,Los Angeles,Internet software & services,2021
+Tier Mobility,2.0,Germany,Berlin,Travel,2021
+Medable,2.1,United States,Palo Alto,Internet software & services,2021
+Devo,1.5,United States,Cambridge,Data management & analytics,2021
+Fabric,1.0,United States,New York,"Supply chain, logistics, & delivery",2021
+Augury,1.0,United States,New York,Artificial intelligence,2021
+Truepill,1.6,United States,Hayward,Health,2021
+Mynt,2.0,Philippines,Taguig City,Fintech,2021
+Alchemy,3.5,United States,San Francisco,Fintech,2021
+ClickHouse,2.0,United States,Portola Valley,Data management & analytics,2021
+Dragos,1.7,United States,Hanover,Cybersecurity,2021
+YugaByte,1.3,United States,Sunnyvale,Data management & analytics,2021
+Digital Currency Group,10.0,United States,New York,Finttech,2021
+Everlaw,2.0,United States,Oakland,Internet software & services,2021
+Vagaro,1.0,United States,Dublin,Internet software & services,2021
+Reltio,1.7,United States,Redwood City,Data management & analytics,2021
+Papa,1.4,United States,Miami,Health,2021
+Mythical Games,1.25,United States,Sherman Oaks,Internet software & services,2021
+H2O.ai,1.7,United States,Mountain View,Artificial intelligence,2021
+Razor,1.0,Germany,Berlin,Consumer & retail,2021
+Drata,1.0,United States,San Diego,Cybersecurity,2021
+ZenBusiness,1.7,United States,Austin,Fintech,2021
+OpenWeb,1.0,United States,New York,Internet software & services,2021
+Contrast Security,1.0,United States,Los Altos,Cybersecurity,2021
+CureFit,1.5,India,Bengaluru,Health,2021
+MyGlamm,1.2,India,Mumbai,E-commerce & direct-to-consumer,2021
+Lusha,1.5,United States,New York,Internet software & services,2021
+Density,1.05,United States,San Francisco,Hardware,2021
+Wrapbook,1.0,United States,New York,Fintech,2021
+Mixpanel,1.05,United States,San Francisco,Internet software & services,2021
+Mensa Brands,1.0,India,Bengaluru,Other,2021
+Daily Harvest,1.1,United States,New York,E-commerce & direct-to-consumer,2021
+Heyday,1.0,United States,Chicago,E-commerce & direct-to-consumer,2021
+StarkWare,2.0,Israel,Netanya,Cybersecurity,2021
+ConsenSys,3.2,United States,New York,Fintech,2021
+Netlify,2.0,United States,San Francisco,Internet software & services,2021
+PLACE,1.0,United States,Bellingham,Internet software & services,2021
+Stytch,1.0,United States,San Francisco,Cybersecurity,2021
+Owkin,1.0,United States,New York,Artificial Intelligence,2021
+Expel,1.0,United States,Herndon,Cybersecurity,2021
+Gemini,7.1,United States,New York,Fintech,2021
+MoonPay,3.4,United States,Miami,Fintech,2021
+Deliverr,2.0,United States,San Francisco,"Supply chain, logistics, & delivery",2021
+SWORD Health,2.0,United States,New York,Health,2021
+LTK,2.0,United States,Dallas,Internet software & services,2021
+NoBroker,1.0,India,Bengaluru,Internet software & services,2021
+Spinny,1.75,India,Gurugram,E-commerce & direct-to-consumer,2021
+Slice,1.0,India,Bengaluru,Fintech,2021
+Fundbox,1.1,United States,San Francisco,Fintech,2021
+Lessen,1.0,United States,Scottsdale,Internet software & services,2021
+Flink,2.7,Germany,Berlin,E-commerce & direct-to-consumer,2021
+Jobandtalent,2.35,Spain,Madrid,Internet software & services,2021
+Iodine Software,1.0,United States,Austin,Data management & analytics,2021
+ReliaQuest,1.0,United States,Tampa,Cybersecurity,2021
+Panther Labs,1.4,United States,San Francisco,Cybersecurity,2021
+Jokr,1.2,United States,New York,E-commerce & direct-to-consumer,2021
+Clara,1.0,Mexico,Mexico City,Fintech,2021
+YipitData,1.0,United States,New York,Internet software & services,2021
+Pet Circle,1.0,Australia,Alexandria,E-commerce & direct-to-consumer,2021
+Pristyn Care,1.2,India,Gurugram,Health,2021
+Incode Technologies,1.25,United States,San Francisco,Cybersecurity,2021
+AgentSync,1.2,United States,Denver,Fintech,2021
+Anyscale,1.0,United States,Berkeley,Artificial Intelligence,2021
